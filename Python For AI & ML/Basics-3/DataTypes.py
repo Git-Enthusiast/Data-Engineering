@@ -141,7 +141,14 @@ print(my_tuple[6][1])  # 2
 
 # Tuples are immutable, cannot modify elements
 # my_tuple[1] = 3.5  # Uncommenting this line will raise TypeError
-
+# However, if a tuple contains mutable objects (like lists), those can be modified:
+t5 = ([1, 2], [3, 4])
+print(t5)
+t5[0][0] = 10  # Modifying the first element of the first list inside the tuple
+print(t5)  # Output: ([10, 2], [3, 4])
+t5[1].append(5)  # Appending to the second list inside the tuple
+print(t5)  # Output: ([10, 2], [3, 4, 5])
+# Note: While the tuple itself is immutable, the mutable objects inside it can be changed.
 
 # ============================================================
 # 4️⃣ MAPPING TYPE (DICT)
