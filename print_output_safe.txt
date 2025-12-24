@@ -1,0 +1,2 @@
+Safe file writing
+No need to close manually

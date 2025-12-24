@@ -1,0 +1,2 @@
+This output goes into a file
+Python print() function
