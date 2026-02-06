@@ -8,6 +8,7 @@
 # parameter of the print() function. By specifying a different
 
 # Use Case 1: Printing on the Same Line with Spaces
+import time
 
 print("Hello,", end=" ")
 print("World!")
@@ -40,9 +41,11 @@ print("City")
 
 # Use Case 6: Progress Bar Simulation
 
-for  i  in range(10):
-     print(f"\rProgress: {i}%", end="")
-     print ("Done!")
+for i in range(11):
+    # \r moves to start, end="" prevents new line
+    print(f"\rProgress: {i * 10}%", end="S") 
+    time.sleep(0.5) 
+print(" Done!") # Runs only once after the loop finishes    
      
      
 # USe Case 7: CSV-Livke Output
