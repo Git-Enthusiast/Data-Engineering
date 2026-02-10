@@ -1,4 +1,5 @@
 # 🚀 Data Engineering Learning Path  
+
 ## From Zero to Advanced — AWS Cloud Focused
 
 > A **complete, industry-ready roadmap** to become a **Data Engineer from scratch**, with strong focus on **AWS Cloud**, real-world pipelines, and production-grade projects.
@@ -21,23 +22,25 @@ This repository is built for **freshers, students, and career switchers** who wa
 
 Programming → SQL → Data Processing → Big Data → AWS → Pipelines → Streaming → Projects
 
-
 ---
 
 ## 📘 PHASE 1: Foundations
 
 ### 🧠 Core Concepts
+
 - What is Data Engineering?
 - Role of a Data Engineer
 - Batch vs Streaming
 - OLTP vs OLAP
 
 ### 🧑‍💻 Programming
+
 - Python basics (data-focused)
 - Functions, OOP, error handling
 - Writing clean, modular code
 
 ### 🛠 Tools
+
 - Linux & Command Line
 - Git & GitHub
 
@@ -48,6 +51,7 @@ Programming → SQL → Data Processing → Big Data → AWS → Pipelines → S
 ## 📗 PHASE 2: SQL & Databases
 
 ### 📊 SQL Mastery
+
 - SELECT, WHERE, GROUP BY
 - JOINs (INNER, LEFT, RIGHT, FULL)
 - Subqueries & CTEs
@@ -55,6 +59,7 @@ Programming → SQL → Data Processing → Big Data → AWS → Pipelines → S
 - Indexing & optimization
 
 ### 🗄 Databases
+
 - MySQL / PostgreSQL
 - Database design
 - Normalization
@@ -66,17 +71,20 @@ Programming → SQL → Data Processing → Big Data → AWS → Pipelines → S
 ## 📙 PHASE 3: Data Processing & Analytics
 
 ### 🔄 Data Handling
+
 - Pandas & NumPy
 - Data cleaning & transformation
 - EDA basics
 
 ### 📂 File Formats
+
 - CSV
 - JSON
 - Parquet
 - Avro
 
 ### 📐 Schema Design
+
 - Data types
 - Validation
 - Partitioning
@@ -88,16 +96,19 @@ Programming → SQL → Data Processing → Big Data → AWS → Pipelines → S
 ## 📕 PHASE 4: Big Data & Distributed Systems
 
 ### ⚙ Big Data Concepts
+
 - Horizontal vs Vertical scaling
 - Batch vs Streaming systems
 
 ### 🔥 Apache Spark
+
 - Spark DataFrames
 - Spark SQL
 - Joins & aggregations
 - Performance tuning
 
 ### 🌊 Streaming Intro
+
 - Kafka fundamentals
 
 ✅ **Outcome:** Handle large-scale data efficiently
@@ -107,14 +118,17 @@ Programming → SQL → Data Processing → Big Data → AWS → Pipelines → S
 ## ☁️ PHASE 5: AWS Cloud Fundamentals
 
 ### 🌍 AWS Basics
+
 - Cloud computing concepts
 - AWS global infrastructure
 
 ### 🔐 IAM
+
 - Users, Roles, Policies
 - Security best practices
 
 ### 🧱 Core Services
+
 - S3 (storage & data lake)
 - EC2 (compute)
 - VPC basics
@@ -127,15 +141,18 @@ Programming → SQL → Data Processing → Big Data → AWS → Pipelines → S
 ## 🏗 PHASE 6: AWS Data Engineering
 
 ### 🪣 Data Lake
+
 - AWS S3
 - Partitioning & lifecycle rules
 
 ### 🔄 ETL
+
 - AWS Glue
 - Crawlers
 - Glue Jobs (PySpark)
 
 ### 📊 Analytics & Warehousing
+
 - Amazon Athena
 - Amazon Redshift
 - Data Lake vs Data Warehouse
@@ -162,7 +179,6 @@ Athena / Redshift
 v
 BI / Reports
 
-
 ✅ **Outcome:** Build real-world AWS data platforms
 
 ---
@@ -170,12 +186,14 @@ BI / Reports
 ## 🔁 PHASE 7: Workflow Orchestration
 
 ### ⏱ Apache Airflow
+
 - DAGs
 - Operators
 - Scheduling
 - Retries & alerting
 
 ### ☁ Airflow + AWS
+
 - Trigger Glue jobs
 - Monitor pipelines
 
@@ -186,11 +204,13 @@ BI / Reports
 ## ⚡ PHASE 8: Streaming & Real-Time Pipelines
 
 ### 🚀 Kafka
+
 - Topics, partitions
 - Producers & consumers
 - Real-time use cases
 
 ### 🌊 Streaming Tools
+
 - Spark Structured Streaming
 - AWS Kinesis (intro)
 
@@ -213,20 +233,24 @@ BI / Reports
 ## 🧠 COMPLETE SKILL BLUEPRINT
 
 ### 🔹 Programming
+
 - Python
 - PySpark
 - SQL
 
 ### 🔹 Data
+
 - ETL / ELT
 - Data modeling
 - Data lakes & warehouses
 
 ### 🔹 Big Data
+
 - Apache Spark
 - Kafka
 
 ### 🔹 Cloud (AWS)
+
 - S3
 - Glue
 - Athena
@@ -235,6 +259,7 @@ BI / Reports
 - EC2
 
 ### 🔹 Orchestration
+
 - Apache Airflow
 
 ---
@@ -242,14 +267,17 @@ BI / Reports
 ## 📁 Portfolio Projects
 
 ### 🟢 Beginner
+
 - CSV → Pandas → SQL pipeline
 - SQL analytics project
 
 ### 🟡 Intermediate
+
 - S3 → Glue → Athena pipeline
 - Spark batch processing
 
 ### 🔴 Advanced (Capstone)
+
 - End-to-end AWS Data Platform
 - Streaming pipeline (Kafka)
 - Airflow-orchestrated ETL
@@ -259,7 +287,7 @@ BI / Reports
 ## 📅 6-Month Learning Roadmap
 
 | Month | Focus |
-|------|------|
+| ----- | ----- |
 | 1 | Python + SQL + Git |
 | 2 | Data Processing + SQL Advanced |
 | 3 | Spark + Big Data |
@@ -276,7 +304,6 @@ BI / Reports
 ✔ Spark & Kafka  
 ✔ Airflow DAGs  
 ✔ Cloud architecture understanding  
-
 
 ## 🎯 Who Should Use This Repo?
 
@@ -311,4 +338,3 @@ MIT License — free to use, modify, and share.
 If this repository helps you, please **star ⭐ the repo** — it keeps the project alive and growing!
 
 ---
-
