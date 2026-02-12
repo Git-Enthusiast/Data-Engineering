@@ -126,16 +126,11 @@ print(f"Bitwise NOT of ~{a} = {result_not}")
 # ============================================================
 # The '<<' operator shifts bits to the LEFT.
 # New bits on the right are filled with 0.
-#
-# Effect:
-# Each left shift multiplies the number by 2
-#
-# Formula:
-# x << n = x * (2 ** n)
-#
-# Example:
-#   0101 << 1
-# = 1010 → 10
+# a << n → Shift the binary bits of a to the left by n positions
+# Effect: Multiply a by 2ⁿ
+# Formula: x << n = x * (2 ** n)
+# Example: 5 << 1 = 10 (binary: 0101 → 1010)
+# Example: 5 << 2 = 20 (binary: 0101 → 10100)
 # ============================================================
 
 result_left_shift = a << 1
@@ -147,21 +142,16 @@ print(f"Bitwise Left Shift of {a} << 1 = {result_left_shift}")
 # ============================================================
 # The '>>' operator shifts bits to the RIGHT.
 # Bits lost on the right are discarded.
-#
-# Effect:
-# Each right shift divides the number by 2 (floor division)
-#
-# Formula:
-# x >> n = x // (2 ** n)
-#
-# Example:
-#   0101 >> 1
-# = 0010 → 2
+# a >> n → Shift the binary bits of a to the right by n positions
+# Effect: Divide a by 2ⁿ
+# Formula: x >> n = x // (2 ** n)
+# Example: 5 >> 1 = 2 (binary: 0101 → 0010)
+# Example: 5 >> 2 = 1 (binary: 0101 → 0001)
 # ============================================================
 
 result_right_shift = a >> 1
 print(f"Bitwise Right Shift of {a} >> 1 = {result_right_shift}")
-
+# = 0010 → 2
 
 # ============================================================
 # ✅ KEY TAKEAWAYS (REVISION POINTS)
