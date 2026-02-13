@@ -59,7 +59,7 @@ print("Python", "Java", "C++")
 
 # Custom separator
 print("Python", "Java", "C++", sep=", ")
-# Output: Python, Java, C++
+# Output: PythonJavaC++
 
 print(1, 2, 3, 4, sep=" | ")
 # Output: 1 | 2 | 3 | 4
