@@ -116,6 +116,3 @@ print("Modulus Assignment:", c)
 c **= 2  # Equivalent to c = c ** 2
 print("Exponentiation Assignment:", c)
 
-
-# Special Operators in Python:
-#
