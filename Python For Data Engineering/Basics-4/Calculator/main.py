@@ -2,6 +2,7 @@ import addition as a
 import subtraction as s
 import multiplication as m
 import division as d
+import modulus as mod
 
 def calculator(x, y, operation):
     if operation == 'add':
@@ -12,6 +13,8 @@ def calculator(x, y, operation):
         return m.multiply_numbers(x, y)
     elif operation == 'divide':
         return d.divide_numbers(x, y)
+    elif operation == 'modulus':
+        return mod.modulus_numbers(x, y)
     else:
         return "Error: Unsupported operation."
 
@@ -24,7 +27,8 @@ if __name__ == "__main__":
     print("Subtraction:", calculator(num1, num2, 'subtract'))
     print("Multiplication:", calculator(num1, num2, 'multiply'))
     print("Division:", calculator(num1, num2, 'divide'))
+    print("Modulus:", calculator(num1, num2, 'modulus'))
 
 # This is a simple calculator that performs addition, subtraction, 
-# multiplication, and division
+# multiplication, division and modulus
 # by importing functions from separate modules for each operation.
