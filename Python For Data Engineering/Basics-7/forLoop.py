@@ -220,6 +220,17 @@ for key in student:
 # Why:
 # Loop iterates over KEYS by default
 
+for value in student.values():
+    print(value)
+
+# Output:
+# Rajan
+# 21
+# CSE
+
+# Why:
+# Loop iterates over VALUES by default
+
 
 for key, value in student.items():
     print(key, ":", value)
@@ -309,14 +320,17 @@ else:
 # ================================================================
 
 for i in range(1, 4):
-    for j in range(1, 3):
+    for j in range(0, 3):
         print(i, j)
 
 # Output:
+# 1 0
 # 1 1
 # 1 2
+# 2 0
 # 2 1
 # 2 2
+# 3 0
 # 3 1
 # 3 2
 
@@ -379,12 +393,12 @@ for item in items:
 # 17. REAL-WORLD EXAMPLE (COUNTING)
 # ================================================================
 
-count = 0
+sum = 0
 
 for i in range(1, 11):
-    count += i
+    sum += i
 
-print("Sum:", count)
+print("Sum:", sum)
 
 # Output:
 # Sum: 55
