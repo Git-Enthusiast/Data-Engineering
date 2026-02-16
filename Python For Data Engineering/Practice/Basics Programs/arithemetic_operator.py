@@ -1,3 +1,4 @@
+#   Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 while True:
     choice = input('Please Enter "yes" if you want to use arithmetic operation or "x" to exit: ').lower()
 
