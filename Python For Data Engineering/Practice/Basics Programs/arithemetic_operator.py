@@ -5,8 +5,6 @@ while True:
     if choice == "yes":
         num1 = float(input("Please Enter 1st number: "))
         num2 = float(input("Please Enter 2nd number: "))
-        operation = input("Please Enter the Operator (+ - * / %): ").strip()
-
         if operation == "+":
             print(f"The sum of {num1} and {num2} is: {num1 + num2}")
         elif operation == "-":
