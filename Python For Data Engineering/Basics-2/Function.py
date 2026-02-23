@@ -13,13 +13,13 @@ def greet(name):
 greet("Rajan")
 
 # Functions can also return values using the 'return' statement.
-def multiply(x, y):
+def multiply(x, y): # Here in function definition x,y is called formal parameter
     """
     This function takes two numbers as input
     and returns their product.
     """
     return x * y
-result = multiply(4, 5)
+result = multiply(4, 5) # Here in function call 4,5 is called actual parameter which positional arguments. 
 print(f"The product is: {result}")
 
 # Functions can have default parameter values
