@@ -1,2 +1,0 @@
-Welcome to File Handling.
-This is a sample text file.

@@ -1,0 +1,5 @@
+customer_id,name,order_date,region,quantity,price
+00123,Ravi,2026-01-05,South,2,1250.50
+00124,Neha,2026-01-06,North,1,999.00
+00125,Amit,2026-01-07,West,3,450.00
+00126,Zoe,2026-01-08,East,2,800.00

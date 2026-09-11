@@ -1,0 +1,4 @@
+INFO start
+WARNING slow
+ERROR failed
+INFO end

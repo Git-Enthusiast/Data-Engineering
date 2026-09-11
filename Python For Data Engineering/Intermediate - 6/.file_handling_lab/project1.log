@@ -1,0 +1,5 @@
+INFO start
+WARNING slow
+ERROR bad row
+INFO recovered
+ERROR invalid
