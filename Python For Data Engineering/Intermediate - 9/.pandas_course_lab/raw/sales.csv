@@ -1,0 +1,13 @@
+order_id,order_date,customer,city,category,product,quantity,unit_price,discount,payment
+1001,2026-01-03,Asha,Delhi,Electronics,Mouse,2,900,0.05,Card
+1002,2026-01-04,Ravi,Mumbai,Office,Notebook,5,120,0.00,UPI
+1003,2026-01-05,Neha,Delhi,Electronics,Keyboard,1,1800,0.10,Card
+1004,2026-01-07,Amit,Bengaluru,Office,Pen,20,25,0.02,Cash
+1005,2026-01-09,Riya,Chennai,Electronics,Monitor,2,12500,0.08,UPI
+1006,2026-01-10,Karan,Mumbai,Office,Notebook,3,120,,UPI
+1007,2026-01-12,Sana,Chennai,Home,Lamp,4,850,0.15,Card
+1008,2026-01-15,Vikram,Delhi,Home,Chair,2,4500,0.05,Card
+1009,2026-01-18,Meera,Bengaluru,Electronics,Mouse,3,900,0.00,UPI
+1010,2026-01-21,Arun,Mumbai,Office,Desk,1,7000,0.05,Cash
+1011,2026-02-02,Asha,Delhi,Office,Marker,10,60,0.00,UPI
+1012,2026-02-05,Ravi,Mumbai,Electronics,Webcam,2,2500,0.10,Card
