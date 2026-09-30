@@ -1,0 +1,26 @@
+[
+  {
+    "Name":"Rahul",
+    "Age":20,
+    "Marks":85,
+    "Branch":"CSE"
+  },
+  {
+    "Name":"Priya",
+    "Age":21,
+    "Marks":92,
+    "Branch":"IT"
+  },
+  {
+    "Name":"Amit",
+    "Age":20,
+    "Marks":76,
+    "Branch":"CSE"
+  },
+  {
+    "Name":"Neha",
+    "Age":22,
+    "Marks":88,
+    "Branch":"ECE"
+  }
+]

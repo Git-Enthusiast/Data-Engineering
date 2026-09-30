@@ -1,0 +1,602 @@
+order_id,order_date,customer_id,customer,city,segment,category,product,quantity,unit_price,discount,payment,sales_channel,shipping_days,customer_rating,returned
+5354,2025-01-02,C018,Customer_018,Chennai,Consumer,Electronics,Mouse,6.0,941.41,0.143,UPI,Mobile App,6.0,4.0,No
+5337,2025-01-02,C006,Customer_006,Hyderabad,Consumer,Home,Table Fan,3.0,2147.61,0.046,UPI,Website,5.0,5.0,No
+5311,2025-01-02,C012,Customer_012,Hyderabad,Small Business,Electronics,Monitor,7.0,11666.8,0.037,UPI,Website,3.0,3.0,No
+5519,2025-01-03,C116,Customer_116,Hyderabad,Small Business,Office,Printer Paper,4.0,350.29,0.118,Cash,Website,6.0,5.0,No
+5256,2025-01-06,C081,Customer_081,Mumbai,Corporate,Home,Table Fan,3.0,1965.52,0.117,Card,Website,4.0,4.0,No
+5223,2025-01-06,C021,Customer_021,Mumbai,Consumer,Electronics,Webcam,1.0,2280.07,0.048,Card,Store,6.0,4.0,No
+5095,2025-01-07,C001,Customer_001,Mumbai,Corporate,Electronics,Webcam,3.0,2498.81,0.13,Card,Store,5.0,3.0,No
+5239,2025-01-09,C029,Customer_029,Chennai,Consumer,Office,Notebook,8.0,131.55,0.172,Card,Mobile App,5.0,3.0,No
+5562,2025-01-09,C103,Customer_103,Bengaluru,Corporate,Home,Desk,3.0,7455.53,0.092,Card,Mobile App,4.0,5.0,No
+5429,2025-01-09,C045,Customer_045,Hyderabad,Corporate,Office,Printer Paper,5.0,354.06,0.048,Card,Website,5.0,4.0,No
+5429,2025-01-12,C093,Customer_093,Delhi,Consumer,Office,Printer Paper,4.0,352.66,0.097,Card,Website,5.0,3.0,No
+5071,2025-01-12,C097,Customer_097,Bengaluru,Consumer,Office,Marker,4.0,63.03,0.071,UPI,Website,2.0,2.0,Yes
+5440,2025-01-13,C077,Customer_077,Bengaluru,Corporate,Electronics,Monitor,1.0,12686.7,0.012,Card,Store,4.0,3.0,No
+5360,2025-01-15,C110,Customer_110,Hyderabad,Consumer,Office,Stapler,8.0,174.68,0.101,Card,Website,5.0,2.0,No
+5001,2025-01-15,C035,Customer_035,Delhi,Consumer,Accessories,Power Bank,6.0,2056.46,0.095,Card,Website,8.0,3.0,No
+5133,2025-01-17,C095,Customer_095,Bengaluru,Corporate,Accessories,Power Bank,2.0,1775.54,0.089,Net Banking,Website,3.0,4.0,No
+5483,2025-01-17,C101,Customer_101,Hyderabad,Consumer,Accessories,Laptop Stand,2.0,1368.63,0.123,Card,Store,3.0,3.0,Yes
+5004,2025-01-18,C096,Customer_096,Mumbai,Corporate,Accessories,Power Bank,1.0,1678.18,0.188,UPI,Mobile App,4.0,4.0,No
+5584,2025-01-19,C085,Customer_085,Chennai,Consumer,Electronics,Webcam,7.0,2685.29,0.114,Card,Website,4.0,4.0,No
+5458,2025-01-19,C018,Customer_018,Chennai,Consumer,Electronics,Monitor,5.0,12668.22,0.061,Card,Store,8.0,4.0,No
+5092,2025-01-19,C050,Customer_050,Chennai,Small Business,Accessories,Power Bank,3.0,1832.57,0.103,Card,Website,3.0,4.0,No
+5477,2025-01-21,C049,Customer_049,Mumbai,Consumer,Office,Stapler,5.0,166.86,0.065,UPI,Store,3.0,,No
+5572,2025-01-21,C044,Customer_044,Bengaluru,Consumer,Home,Lamp,8.0,755.84,0.045,UPI,Mobile App,6.0,3.0,No
+5304,2025-01-22,C015,Customer_015,Delhi,Corporate,Home,Desk,7.0,6810.18,0.101,Cash,Website,6.0,4.0,No
+5309,2025-01-22,C066,Customer_066,Delhi,Corporate,Electronics,Headset,6.0,2348.19,0.129,UPI,Mobile App,6.0,2.0,No
+5233,2025-01-22,C088,Customer_088,Delhi,Corporate,Office,Stapler,4.0,187.91,0.003,Cash,Website,7.0,4.0,No
+5102,2025-01-23,C101,Customer_101,Hyderabad,Consumer,Accessories,Laptop Stand,2.0,1352.67,0.0,UPI,Website,5.0,3.0,No
+5008,2025-01-24,C064,Customer_064,Mumbai,Consumer,Electronics,Headset,1.0,2231.26,0.039,Net Banking,Website,5.0,4.0,No
+5084,2025-01-25,C022,Customer_022,Bengaluru,Consumer,Home,Chair,6.0,4718.48,0.152,Card,Website,4.0,4.0,No
+5190,2025-01-26,C016,Customer_016,Chennai,Consumer,Home,Chair,2.0,4212.84,0.057,UPI,Mobile App,5.0,4.0,No
+5531,2025-01-26,C033,Customer_033,Bengaluru,Consumer,Accessories,Phone Case,5.0,620.85,0.039,UPI,Mobile App,7.0,3.0,No
+5275,2025-01-26,C067,Customer_067,Delhi,Consumer,Electronics,Headset,1.0,2159.52,0.041,Card,Store,2.0,5.0,No
+5455,2025-01-27,C054,Customer_054,Mumbai,Small Business,Accessories,Laptop Stand,3.0,1461.45,0.036,Cash,Mobile App,4.0,5.0,No
+5397,2025-01-27,C065,Customer_065,Mumbai,Corporate,Accessories,Power Bank,8.0,1888.43,0.014,UPI,Website,3.0,5.0,No
+5254,2025-01-30,C093,Customer_093,Delhi,Consumer,Electronics,Monitor,5.0,12542.31,0.135,Card,Mobile App,4.0,4.0,No
+5441,2025-02-01,C105,Customer_105,Mumbai,Consumer,Accessories,Phone Case,6.0,630.47,0.038,Card,Website,4.0,5.0,No
+5401,2025-02-01,C011,Customer_011,Bengaluru,Consumer,Electronics,Monitor,4.0,11896.61,0.091,Card,Store,4.0,4.0,No
+5368,2025-02-02,C007,Customer_007,Mumbai,Consumer,Electronics,Webcam,5.0,2453.65,0.029,UPI,Store,4.0,5.0,No
+5032,2025-02-03,C090,Customer_090,Delhi,Consumer,Accessories,USB Cable,4.0,451.98,0.163,Card,Store,5.0,3.0,No
+5534,2025-02-04,C038,Customer_038,Delhi,Corporate,Accessories,Power Bank,7.0,1852.39,0.089,Card,Website,,4.0,No
+5539,2025-02-05,C005,Customer_005,Chennai,Consumer,Office,Notebook,3.0,112.48,0.078,upi,Mobile App,7.0,,No
+5404,2025-02-05,C019,Customer_019,Hyderabad,Corporate,Home,Table Fan,3.0,2233.88,0.161,UPI,Website,5.0,5.0,No
+5155,2025-02-06,C022,Customer_022,Bengaluru,Consumer,Accessories,Laptop Stand,2.0,1419.43,0.038,Card,Mobile App,3.0,5.0,No
+5077,2025-02-06,C089,Customer_089,Chennai,Consumer,Office,Marker,3.0,66.14,0.059,Card,Website,6.0,3.0,No
+5463,2025-02-06,C110,Customer_110,Hyderabad,Consumer,Electronics,Mouse,8.0,859.83,0.13,Card,Mobile App,3.0,3.0,No
+5473,2025-02-08,C074,Customer_074,Bengaluru,Small Business,Home,Desk,6.0,6741.21,0.139,Net Banking,Website,1.0,4.0,No
+5066,2025-02-09,C007,Customer_007,Mumbai,Consumer,Office,Pen,6.0,24.05,0.039,Card,Website,3.0,4.0,No
+5270,2025-02-09,C019,Customer_019,Hyderabad,Corporate,Accessories,USB Cable,2.0,456.44,0.086,Card,Website,3.0,4.0,No
+5197,2025-02-09,C070,Customer_070,Delhi,Consumer,Electronics,Mouse,7.0,783.57,0.099,upi,Store,7.0,3.0,No
+5154,2025-02-10,C046,Customer_046,Mumbai,Consumer,Home,Lamp,1.0,817.28,0.112,Card,Website,7.0,4.0,Yes
+5031,2025-02-10,C120,Customer_120,Mumbai,Consumer,Home,Lamp,3.0,823.01,0.041,Card,Mobile App,7.0,5.0,No
+5147,2025-02-11,C041,Customer_041,Delhi,Consumer,Home,Chair,7.0,4095.71,0.079,UPI,Mobile App,7.0,3.0,No
+5490,2025-02-13,C005,Customer_005,Chennai,Consumer,Home,Table Fan,8.0,2183.92,0.0,Card,Mobile App,3.0,5.0,No
+5281,2025-02-13,C022,Customer_022,Bengaluru,Consumer,Electronics,Mouse,7.0,911.73,0.083,UPI,Website,3.0,4.0,Yes
+5425,2025-02-13,C056,Customer_056,Mumbai,Consumer,Accessories,USB Cable,7.0,451.19,0.059,Net Banking,Website,5.0,4.0,No
+5469,2025-02-14,C114,Customer_114,Delhi,Corporate,Office,Marker,3.0,64.49,0.058,Cash,Store,4.0,4.0,No
+5043,2025-02-15,C024,Customer_024,Hyderabad,Corporate,Electronics,Keyboard,1.0,1812.03,0.085,UPI,Mobile App,4.0,4.0,Yes
+5285,2025-02-16,C044,Customer_044,Bengaluru,Consumer,Accessories,Laptop Stand,8.0,1352.92,0.026,Net Banking,Mobile App,4.0,5.0,No
+5029,2025-02-16,C033,Customer_033,Bengaluru,Consumer,Home,Lamp,8.0,854.98,0.08,Card,Mobile App,6.0,4.0,No
+5184,2025-02-16,C025,Customer_025,Mumbai,Consumer,Accessories,Phone Case,4.0,626.09,0.109,Card,Website,1.0,4.0,No
+5468,2025-02-16,C017,Customer_017,Delhi,Small Business,Home,Table Fan,1.0,2279.86,0.023,Net Banking,Website,4.0,3.0,No
+5142,2025-02-17,C058,Customer_058,Delhi,Small Business,Electronics,Webcam,5.0,2721.74,0.017,Cash,Mobile App,2.0,3.0,No
+5407,2025-02-17,C007,Customer_007,Mumbai,Consumer,Office,Pen,5.0,26.16,0.056,Card,Mobile App,5.0,5.0,No
+5222,2025-02-17,C074,Customer_074,Bengaluru,Small Business,Electronics,Monitor,1.0,12262.03,0.011,Card,Mobile App,4.0,3.0,No
+5428,2025-02-19,C021,Customer_021,Mumbai,Consumer,Electronics,Keyboard,5.0,1796.97,0.052,UPI,Website,2.0,3.0,No
+5389,2025-02-19,C054,Customer_054, Chennai ,Small Business,Office,Notebook,1.0,125.59,0.041,UPI,Website,2.0,5.0,No
+5369,2025-02-21,C099,Customer_099,Chennai,Small Business,Electronics,Headset,5.0,2177.18,,Net Banking,Website,3.0,3.0,No
+5324,2025-02-21,C111,Customer_111,Delhi,Consumer,Office,Marker,5.0,60.05,0.174,UPI,Website,3.0,3.0,No
+5178,2025-02-23,C076,Customer_076,Bengaluru,Consumer,Electronics,Headset,8.0,2059.49,0.045,UPI,Website,3.0,4.0,No
+5011,2025-02-24,C112,Customer_112,Chennai,Consumer,Home,Lamp,6.0,863.25,0.0,Card,Website,6.0,4.0,No
+5009,2025-02-24,C092,Customer_092,Mumbai,Corporate,Office,Stapler,5.0,200.55,0.142,Card,Website,4.0,3.0,No
+5189,2025-02-24,C111,Customer_111,Delhi,Consumer,Home,Chair,4.0,4572.02,0.108,Card,Mobile App,7.0,3.0,No
+5158,2025-02-26,C036,Customer_036,Chennai,Corporate,Office,Printer Paper,6.0,359.98,0.138,Cash,Website,6.0,5.0,Yes
+5006,2025-02-26,C028,Customer_028,Chennai,Consumer,Home,Table Fan,1.0,2218.67,0.116,Net Banking,Mobile App,1.0,3.0,No
+5523,2025-02-27,C067,Customer_067,Delhi,Consumer,Electronics,Headset,7.0,2003.91,0.092,Net Banking,Store,5.0,4.0,No
+5373,2025-02-27,C116,Customer_116,Hyderabad,Small Business,Accessories,Power Bank,5.0,1778.83,0.017,UPI,Website,4.0,4.0,No
+5485,2025-02-28,C114,Customer_114,Delhi,Corporate,Office,Pen,1.0,25.35,0.001,Cash,Store,2.0,4.0,No
+5471,2025-02-28,C012,Customer_012,Hyderabad,Small Business,Office,Pen,3.0,22.44,,Card,Mobile App,1.0,5.0,No
+5447,2025-02-28,C065,Customer_065,Mumbai,Corporate,Home,Chair,4.0,4606.44,0.135,Card,Mobile App,2.0,5.0,No
+5283,2025-02-28,C114,Customer_114,Delhi,Corporate,Electronics,Webcam,5.0,2573.3,0.0,Card,Website,3.0,3.0,No
+5053,2025-03-01,C019,Customer_019,Hyderabad,Corporate,Home,Lamp,7.0,895.54,0.109,UPI,Website,4.0,3.0,No
+5442,2025-03-01,C069,Customer_069,Chennai,Corporate,Accessories,Phone Case,1.0,611.49,0.094,UPI,Website,5.0,4.0,No
+5391,2025-03-02,C055,Customer_055,Mumbai,Consumer,Electronics,Webcam,5.0,2429.8,0.049,UPI,Mobile App,1.0,4.0,No
+5169,2025-03-03,C116,Customer_116,Hyderabad,Small Business,Home,Table Fan,8.0,2220.75,0.112,Card,Website,5.0,5.0,No
+5300,2025-03-03,C103,Customer_103,Bengaluru,Corporate,Home,Desk,5.0,7127.61,0.087,Cash,Store,3.0,3.0,Yes
+5060,2025-03-03,C003,Customer_003,Hyderabad,Consumer,Office,Notebook,7.0,132.31,0.054,Card,Website,5.0,3.0,No
+5217,2025-03-05,C087,Customer_087,Mumbai,Consumer,Home,Table Fan,8.0,1814.93,0.037,Card,Mobile App,5.0,4.0,No
+5409,2025-03-05,C002,Customer_002,Delhi,Corporate,Accessories,Phone Case,2.0,581.57,0.019,Card,Mobile App,6.0,5.0,No
+5377,2025-03-05,C030,Customer_030,Mumbai,Consumer,Electronics,Monitor,8.0,12303.83,0.081,Card,Mobile App,4.0,3.0,No
+5051,2025-03-05,C072,Customer_072,Bengaluru,Consumer,Accessories,USB Cable,6.0,458.47,0.113,Card,Website,1.0,4.0,No
+5172,2025-03-05,C079,Customer_079,Delhi,Consumer,Office,Stapler,5.0,176.0,0.124,UPI,Website,6.0,3.0,No
+5316,2025-03-06,C036,Customer_036,Chennai,Corporate,Home,Chair,3.0,4677.88,0.053,Card,Mobile App,5.0,3.0,No
+5208,2025-03-06,C072,Customer_072,Bengaluru,Consumer,Home,Chair,6.0,4667.16,0.114,UPI,Website,1.0,2.0,No
+5046,2025-03-08,C038,Customer_038,Delhi,Corporate,Office,Stapler,5.0,185.47,0.08,Card,Mobile App,4.0,,No
+5219,2025-03-08,C007,Customer_007,Mumbai,Consumer,Electronics,Monitor,1.0,10214.28,0.166,Card,Website,1.0,5.0,No
+5207,2025-03-08,C049,Customer_049,Mumbai,Consumer,Home,Chair,3.0,4464.89,0.135,Net Banking,Website,5.0,3.0,No
+5049,2025-03-09,C110,Customer_110,Hyderabad,Consumer,Electronics,Monitor,4.0,11919.01,0.064,Net Banking,Mobile App,5.0,4.0,No
+5410,2025-03-09,C033,Customer_033,Bengaluru,Consumer,Home,Table Fan,4.0,2384.92,0.197,UPI,Store,2.0,4.0,No
+5064,2025-03-10,C021,Customer_021,Mumbai,Consumer,Office,Printer Paper,2.0,325.3,0.0,UPI,Mobile App,2.0,4.0,No
+5376,2025-03-10,C102,Customer_102,Mumbai,Consumer,Accessories,Phone Case,8.0,528.8,0.043,Cash,Mobile App,4.0,5.0,No
+5479,2025-03-10,C117,Customer_117,Mumbai,Consumer,Electronics,Keyboard,7.0,1805.58,0.093,UPI,Website,3.0,4.0,No
+5514,2025-03-10,C052,Customer_052,Chennai,Consumer,Electronics,Mouse,7.0,942.68,0.054,Card,Mobile App,2.0,4.0,No
+5165,2025-03-11,C093,Customer_093,Delhi,Consumer,Electronics,Mouse,3.0,841.43,0.0,Cash,Mobile App,5.0,4.0,No
+5415,2025-03-12,C090,Customer_090,Delhi,Consumer,Accessories,Power Bank,3.0,1853.61,0.178,Card,Store,6.0,4.0,No
+5113,2025-03-12,C029,Customer_029,Chennai,Consumer,Office,Printer Paper,4.0,370.18,0.123,UPI,Website,3.0,4.0,No
+5314,2025-03-12,C100,Customer_100,Hyderabad,Consumer,Accessories,USB Cable,7.0,415.86,0.01,Cash,Mobile App,6.0,4.0,No
+5302,2025-03-13,C077,Customer_077,Bengaluru,Corporate,Office,Marker,2.0,58.09,0.063,Net Banking,Mobile App,2.0,4.0,No
+5378,2025-03-13,C007,Customer_007,Mumbai,Consumer,Electronics,Keyboard,5.0,1806.1,0.0,UPI,Mobile App,3.0,5.0,No
+5273,2025-03-13,C011,Customer_011,Bengaluru,Consumer,Accessories,USB Cable,2.0,471.51,0.007,Card,Website,2.0,3.0,No
+5010,2025-03-13,C073,Customer_073,Hyderabad,Consumer,Home,Lamp,7.0,826.87,0.094,Card,Website,4.0,4.0,No
+5160,2025-03-14,C114,Customer_114, Chennai ,Corporate,Electronics,Monitor,1.0,12373.51,0.057,Card,Website,4.0,3.0,No
+5144,2025-03-14,C051,Customer_051,Chennai,Consumer,Home,Table Fan,1.0,2122.47,0.015,Card,Mobile App,2.0,5.0,No
+5408,2025-03-15,C024,Customer_024,Hyderabad,Corporate,Accessories,Phone Case,5.0,589.93,0.042,UPI,Store,3.0,4.0,No
+5020,2025-03-15,C052,Customer_052,Chennai,Consumer,Home,Table Fan,4.0,2122.95,0.07,UPI,Mobile App,4.0,5.0,Yes
+5553,2025-03-17,C088,Customer_088,Delhi,Corporate,Electronics,Keyboard,5.0,1925.89,0.071,UPI,Mobile App,5.0,4.0,No
+5362,2025-03-17,C079,Customer_079,Delhi,Consumer,Electronics,Mouse,8.0,867.45,0.138,Card,Website,1.0,5.0,No
+5199,2025-03-17,C063,Customer_063,Delhi,Consumer,Home,Chair,1.0,4342.97,0.081,Card,Mobile App,5.0,4.0,No
+5361,2025-03-18,C035,Customer_035,Delhi,Consumer,Home,Chair,1.0,4011.24,0.116,Cash,Website,5.0,4.0,No
+5448,2025-03-18,C037,Customer_037,Chennai,Consumer,Electronics,Monitor,1.0,11960.39,0.104,Cash,Mobile App,8.0,3.0,No
+5352,2025-03-19,C029,Customer_029,Chennai,Consumer,Accessories,Phone Case,3.0,603.68,0.042,Card,Mobile App,5.0,3.0,No
+5417,2025-03-19,C062,Customer_062,Delhi,Small Business,Office,Notebook,5.0,121.43,0.067,UPI,Mobile App,6.0,5.0,No
+5596,2025-03-20,C020,Customer_020,Mumbai,Consumer,Home,Desk,3.0,7505.13,0.108,Card,Website,7.0,4.0,No
+5299,2025-03-20,C033,Customer_033,Bengaluru,Consumer,Home,Table Fan,8.0,2251.75,0.106,Card,Website,5.0,3.0,No
+5138,2025-03-20,C032,Customer_032,Hyderabad,Small Business,Home,Lamp,1.0,879.51,0.061,UPI,Mobile App,4.0,5.0,No
+5564,2025-03-22,C045,Customer_045,Hyderabad,Corporate,Accessories,Laptop Stand,3.0,1200.31,0.035,UPI,Website,5.0,3.0,No
+5301,2025-03-23,C106,Customer_106,Mumbai,Small Business,Electronics,Keyboard,6.0,1790.11,0.06,UPI,Website,3.0,4.0,No
+5149,2025-03-23,C061,Customer_061,Mumbai,Small Business,Office,Printer Paper,1.0,307.21,0.033,UPI,Website,3.0,4.0,No
+5591,2025-03-23,C081,Customer_081,Mumbai,Corporate,Accessories,Laptop Stand,8.0,1591.3,0.111,UPI,Mobile App,6.0,3.0,No
+5533,2025-03-23,C030,Customer_030,Mumbai,Consumer,Home,Chair,3.0,4574.87,0.097,Card,Website,2.0,2.0,No
+5034,2025-03-24,C098,Customer_098,Chennai,Consumer,Office,Notebook,8.0,119.35,0.046,Card,Website,3.0,4.0,No
+5434,2025-03-24,C118,Customer_118,Mumbai,Corporate,Accessories,Phone Case,5.0,603.53,0.155,UPI,Website,6.0,3.0,No
+5272,2025-03-24,C018,Customer_018,Chennai,Consumer,Electronics,Keyboard,1.0,1753.51,0.036,Card,Mobile App,1.0,5.0,No
+5317,2025-03-24,C117,Customer_117,Mumbai,Consumer,Office,Marker,7.0,59.96,0.06,UPI,Store,7.0,3.0,No
+5088,2025-03-25,C030,Customer_030,Mumbai,Consumer,Electronics,Monitor,5.0,13015.82,0.098,UPI,Website,5.0,5.0,Yes
+5056,2025-03-25,C019,Customer_019,Hyderabad,Corporate,Electronics,Mouse,3.0,864.56,0.032,UPI,Mobile App,4.0,4.0,Yes
+5456,2025-03-25,C113,Customer_113,Bengaluru,Small Business,Home,Chair,5.0,4271.38,0.055,Net Banking,Store,5.0,5.0,No
+5209,2025-03-26,C054,Customer_054,Mumbai,Small Business,Office,Marker,5.0,55.82,0.108,UPI,Mobile App,5.0,3.0,No
+5555,2025-03-27,C008,Customer_008,Mumbai,Consumer,Office,Pen,8.0,24.87,0.069,UPI,Website,3.0,4.0,Yes
+5330,2025-03-27,C120,Customer_120,Mumbai,Consumer,Electronics,Headset,4.0,2274.6,0.172,Cash,Mobile App,4.0,5.0,No
+5375,2025-03-28,C035,Customer_035,Delhi,Consumer,Accessories,Power Bank,1.0,1648.05,0.095,UPI,Store,1.0,5.0,No
+5413,2025-03-28,C063,Customer_063,Delhi,Consumer,Electronics,Headset,7.0,2227.9,0.142,Cash,Website,1.0,4.0,Yes
+5492,2025-03-28,C051,Customer_051,Chennai,Consumer,Office,Notebook,6.0,134.48,0.132,Card,Store,4.0,4.0,No
+5002,2025-03-28,C100,Customer_100,Hyderabad,Consumer,Office,Pen,7.0,22.39,0.111,UPI,Store,5.0,3.0,No
+5230,2025-03-28,C056,Customer_056,Mumbai,Consumer,Office,Notebook,6.0,115.8,0.119,Cash,Store,1.0,4.0,No
+5087,2025-03-29,C028,Customer_028,Chennai,Consumer,Office,Pen,7.0,23.52,0.068,UPI,Website,3.0,5.0,No
+5204,2025-03-29,C116,Customer_116,Hyderabad,Small Business,Electronics,Keyboard,5.0,1740.11,0.075,Card,Website,5.0,5.0,No
+5193,2025-03-29,C077,Customer_077,Bengaluru,Corporate,Electronics,Mouse,6.0,929.31,0.155,Card,Store,3.0,4.0,No
+5214,2025-03-29,C114,Customer_114,Delhi,Corporate,Home,Desk,7.0,6672.22,0.128,Cash,Mobile App,5.0,4.0,No
+5395,2025-03-30,C084,Customer_084,Chennai,Consumer,Office,Stapler,2.0,186.8,0.07,UPI,Mobile App,2.0,3.0,No
+5398,2025-03-31,C090,Customer_090,Delhi,Consumer,Electronics,Headset,4.0,2212.49,0.058,upi,Store,5.0,2.0,No
+5506,2025-04-01,C079,Customer_079,Delhi,Consumer,Home,Chair,8.0,4524.52,0.041,Card,Website,3.0,3.0,No
+5181,2025-04-01,C022,Customer_022,Bengaluru,Consumer,Home,Lamp,2.0,942.25,0.121,UPI,Store,6.0,4.0,No
+5453,2025-04-01,C031,Customer_031,Mumbai,Small Business,Office,Stapler,4.0,181.38,0.143,Cash,Mobile App,4.0,5.0,No
+5551,2025-04-02,C059,Customer_059,Chennai,Small Business,Electronics,Headset,3.0,2101.71,0.107,UPI,Website,4.0,4.0,No
+5342,2025-04-03,C080,Customer_080,Mumbai,Consumer,Office,Pen,2.0,23.51,0.064,Net Banking,Mobile App,6.0,3.0,Yes
+5511,2025-04-03,C042,Customer_042,Hyderabad,Small Business,Office,Stapler,5.0,184.73,0.181,Cash,Website,5.0,5.0,No
+5426,2025-04-03,C086,Customer_086,Chennai,Consumer,Home,Lamp,1.0,808.73,0.086,Card,Store,5.0,5.0,No
+5439,2025-04-04,C031,Customer_031,Mumbai,Small Business,Office,Marker,4.0,58.73,0.117,UPI,Mobile App,6.0,5.0,No
+5588,2025-04-05,C077,Customer_077,Bengaluru,Corporate,Office,Notebook,6.0,100000.0,0.0,UPI,Store,7.0,5.0,No
+5015,2025-04-06,C035,Customer_035,Delhi,Consumer,Electronics,Webcam,7.0,2158.64,0.076,Card,Store,8.0,2.0,No
+5320,2025-04-07,C054,Customer_054,Mumbai,Small Business,Home,Lamp,8.0,848.57,0.081,UPI,Mobile App,3.0,4.0,No
+5336,2025-04-07,C101,Customer_101,Hyderabad,Consumer,Accessories,Phone Case,2.0,623.74,0.048,Net Banking,Website,4.0,4.0,Yes
+5288,2025-04-08,C058,Customer_058,Delhi,Small Business,Electronics,Webcam,8.0,2382.1,0.0,Cash,Website,4.0,5.0,No
+5422,2025-04-08,C006,Customer_006,Hyderabad,Consumer,Home,Table Fan,3.0,2228.39,0.117,UPI,Store,4.0,5.0,No
+5180,2025-04-10,C035,Customer_035,Delhi,Consumer,Accessories,USB Cable,5.0,469.71,0.168,UPI,Website,3.0,4.0,No
+5152,2025-04-10,C040,Customer_040,Mumbai,Corporate,Accessories,Phone Case,7.0,586.16,0.15,UPI,Mobile App,4.0,4.0,No
+5220,2025-04-10,C012,Customer_012,Hyderabad,Small Business,Home,Table Fan,5.0,2118.68,,Cash,Mobile App,4.0,3.0,No
+5427,2025-04-11,C050,Customer_050,Chennai,Small Business,Accessories,Phone Case,7.0,602.44,0.129,UPI,Mobile App,2.0,5.0,No
+5424,2025-04-11,C107,Customer_107,Delhi,Consumer,Electronics,Headset,4.0,2273.28,0.062,UPI,Store,3.0,3.0,No
+5332,2025-04-11,C106,Customer_106,Mumbai,Small Business,Electronics,Headset,1.0,2227.11,0.126,UPI,Website,6.0,4.0,No
+5075,2025-04-12,C119,Customer_119,Delhi,Consumer,Electronics,Keyboard,1.0,1807.78,0.063,Cash,Mobile App,5.0,4.0,No
+5203,2025-04-12,C116,Customer_116,Hyderabad,Small Business,Accessories,USB Cable,7.0,420.96,0.154,Card,Mobile App,3.0,3.0,No
+5540,2025-04-14,C014,Customer_014,Hyderabad,Consumer,Home,Desk,2.0,6983.58,0.101,UPI,Website,5.0,5.0,No
+5159,2025-04-14,C096,Customer_096,Mumbai,Corporate,Office,Stapler,1.0,172.53,0.132,UPI,Website,4.0,4.0,No
+5099,2025-04-14,C108,Customer_108,Bengaluru,Corporate,Office,Stapler,8.0,176.48,0.0,UPI,Website,4.0,4.0,No
+5414,2025-04-16,C118,Customer_118,Mumbai,Corporate,Electronics,Mouse,8.0,921.08,0.114,UPI,Website,4.0,4.0,Yes
+5488,2025-04-16,C039,Customer_039,Chennai,Corporate,Home,Table Fan,7.0,1970.25,0.037,UPI,Website,6.0,3.0,No
+5509,2025-04-16,C030,Customer_030,Mumbai,Consumer,Accessories,USB Cable,7.0,442.05,0.146,Net Banking,Website,4.0,5.0,No
+5162,2025-04-17,C110,Customer_110,Hyderabad,Consumer,Home,Chair,6.0,4606.21,0.117,UPI,Mobile App,3.0,4.0,No
+5557,2025-04-18,C109,Customer_109,Chennai,Corporate,Electronics,Headset,2.0,1885.67,0.06,Cash,Mobile App,5.0,4.0,No
+5298,2025-04-19,C015,Customer_015,Delhi,Corporate,Accessories,Laptop Stand,5.0,1407.38,0.095,Card,Mobile App,3.0,4.0,No
+5595,2025-04-19,C057,Customer_057,Delhi,Consumer,Accessories,Laptop Stand,3.0,1495.88,0.044,UPI,Mobile App,1.0,3.0,Yes
+5550,2025-04-20,C041,Customer_041,Delhi,Consumer,Home,Chair,8.0,4072.81,0.133,Card,Mobile App,4.0,4.0,No
+5325,2025-04-20,C089,Customer_089,Chennai,Consumer,Electronics,Webcam,7.0,2381.5,0.08,Card,Website,3.0,5.0,No
+5117,2025-04-21,C070,Customer_070,Delhi,Consumer,Accessories,Power Bank,2.0,1799.23,0.091,Net Banking,Mobile App,5.0,4.0,No
+5226,2025-04-21,C068,Customer_068,Bengaluru,Consumer,Electronics,Monitor,5.0,11058.87,0.053,UPI,Website,4.0,3.0,No
+5462,2025-04-22,C049,Customer_049,Mumbai,Consumer,Home,Chair,7.0,4682.92,0.151,Cash,Website,4.0,5.0,No
+5493,2025-04-23,C058,Customer_058,Delhi,Small Business,Home,Chair,7.0,4648.23,,UPI,Mobile App,4.0,3.0,No
+5182,2025-04-23,C089,Customer_089,Chennai,Consumer,Home,Chair,6.0,4884.84,0.118,Cash,Mobile App,6.0,4.0,No
+5218,2025-04-25,C071,Customer_071,Chennai,Small Business,Accessories,Power Bank,5.0,1928.55,0.085,UPI,Website,3.0,5.0,Yes
+5284,2025-04-25,C113,Customer_113,Bengaluru,Small Business,Office,Marker,1.0,60.61,0.046,Card,Website,6.0,5.0,No
+5567,2025-04-27,C029,Customer_029,Chennai,Consumer,Electronics,Headset,8.0,2174.26,0.05,Card,Website,7.0,3.0,No
+5048,2025-04-28,C018,Customer_018,Chennai,Consumer,Home,Chair,4.0,4681.23,0.14,Net Banking,Mobile App,4.0,3.0,No
+5041,2025-04-29,C043,Customer_043,Mumbai,Consumer,Home,Chair,7.0,4448.82,0.039,Net Banking,Mobile App,2.0,3.0,No
+5163,2025-04-30,C103,Customer_103,Bengaluru,Corporate,Electronics,Monitor,7.0,11452.28,0.1,Card,Store,5.0,,No
+5554,2025-05-03,C038,Customer_038,Delhi,Corporate,Electronics,Mouse,8.0,844.02,0.232,UPI,Mobile App,5.0,3.0,Yes
+5515,2025-05-03,C064,Customer_064,Mumbai,Consumer,Electronics,Monitor,4.0,13234.69,0.119,UPI,Website,2.0,4.0,No
+5371,2025-05-04,C118,Customer_118,Mumbai,Corporate,Office,Stapler,5.0,179.65,0.089,UPI,Mobile App,4.0,4.0,No
+5205,2025-05-04,C021,Customer_021,Mumbai,Consumer,Home,Lamp,7.0,904.64,0.041,UPI,Mobile App,4.0,4.0,No
+5333,2025-05-05,C083,Customer_083,Mumbai,Consumer,Accessories,USB Cable,3.0,437.09,0.044,Net Banking,Mobile App,5.0,3.0,No
+5294,2025-05-06,C087,Customer_087,Mumbai,Consumer,Office,Pen,8.0,25.59,0.125,Card,Store,5.0,5.0,No
+5211,2025-05-06,C120,Customer_120,Mumbai,Consumer,Electronics,Keyboard,2.0,1815.91,0.109,UPI,Website,5.0,5.0,No
+5118,2025-05-07,C094,Customer_094,Bengaluru,Small Business,Electronics,Keyboard,2.0,1818.38,0.071,UPI,Website,5.0,4.0,No
+5030,2025-05-07,C029,Customer_029,Chennai,Consumer,Office,Marker,1.0,56.61,0.127,Card,Mobile App,2.0,4.0,No
+5574,2025-05-08,C116,Customer_116,Hyderabad,Small Business,Accessories,USB Cable,6.0,461.24,0.107,Card,Store,8.0,4.0,No
+5141,2025-05-08,C053,Customer_053,Mumbai,Consumer,Electronics,Keyboard,8.0,1772.06,0.172,Cash,Website,4.0,3.0,No
+5526,2025-05-09,C111,Customer_111,Delhi,Consumer,Accessories,Power Bank,3.0,1809.29,0.119,UPI,Mobile App,5.0,5.0,No
+5527,2025-05-10,C103,Customer_103,Bengaluru,Corporate,Home,Lamp,3.0,809.5,0.094,Card,Mobile App,4.0,,No
+5005,2025-05-10,C056,Customer_056,Mumbai,Consumer,Electronics,Webcam,3.0,2425.99,0.103,Card,Website,,4.0,No
+5174,2025-05-11,C097,Customer_097,Bengaluru,Consumer,Accessories,Laptop Stand,3.0,1473.24,0.0,UPI,Website,8.0,4.0,No
+5251,2025-05-11,C088,Customer_088,Delhi,Corporate,Electronics,Headset,1.0,2080.0,0.14,Net Banking,Mobile App,4.0,3.0,No
+5206,2025-05-12,C097,Customer_097,Bengaluru,Consumer,Home,Lamp,5.0,880.75,0.054,UPI,Store,5.0,3.0,No
+5585,2025-05-12,C091,Customer_091,Chennai,Corporate,Home,Chair,4.0,4503.61,0.129,Card,Mobile App,3.0,3.0,No
+5013,2025-05-13,C091,Customer_091,Chennai,Corporate,Electronics,Keyboard,4.0,1782.29,0.053,Cash,Website,3.0,3.0,No
+5357,2025-05-13,C098,Customer_098,Chennai,Consumer,Electronics,Keyboard,4.0,2108.6,0.073,Net Banking,Mobile App,7.0,5.0,No
+5235,2025-05-14,C111,Customer_111,Delhi,Consumer,Electronics,Monitor,2.0,12197.31,0.114,Card,Mobile App,4.0,4.0,No
+5221,2025-05-14,C063,Customer_063,Delhi,Consumer,Office,Printer Paper,7.0,371.53,0.094,Card,Website,6.0,3.0,No
+5131,2025-05-15,C101,Customer_101,Hyderabad,Consumer,Electronics,Mouse,4.0,984.18,0.132,UPI,Website,4.0,5.0,No
+5228,2025-05-15,C069,Customer_069,Chennai,Corporate,Electronics,Webcam,7.0,2491.73,0.053,Card,Website,5.0,4.0,No
+5126,2025-05-16,C065,Customer_065,Mumbai,Corporate,Office,Stapler,8.0,193.19,0.023,UPI,Store,5.0,5.0,No
+5374,2025-05-16,C029,Customer_029,Chennai,Consumer,Accessories,Laptop Stand,1.0,1371.26,0.079,Cash,Website,9.0,4.0,No
+5145,2025-05-17,C073,Customer_073,Hyderabad,Consumer,Office,Pen,7.0,25.02,0.166,UPI,Website,6.0,4.0,No
+5040,2025-05-19,C072,Customer_072,Bengaluru,Consumer,Home,Table Fan,3.0,2019.38,0.153,UPI,Mobile App,3.0,4.0,No
+5348,2025-05-19,C108,Customer_108,Bengaluru,Corporate,Electronics,Monitor,2.0,11465.64,0.0,Card,Mobile App,5.0,4.0,No
+5183,2025-05-20,C005,Customer_005, Chennai ,Consumer,Electronics,Mouse,4.0,812.19,0.128,UPI,Website,5.0,2.0,No
+5544,2025-05-20,C102,Customer_102,Mumbai,Consumer,Accessories,Power Bank,7.0,1932.77,0.047,Card,Store,5.0,3.0,No
+5143,2025-05-22,C020,Customer_020,Mumbai,Consumer,Electronics,Monitor,2.0,11824.48,0.022,Cash,Website,6.0,5.0,No
+5179,2025-05-23,C009,Customer_009,Chennai,Consumer,Office,Marker,1.0,53.42,0.0,UPI,Mobile App,5.0,4.0,No
+5525,2025-05-24,C016,Customer_016,Chennai,Consumer,Home,Chair,1.0,4292.54,0.161,UPI,Website,4.0,5.0,No
+5449,2025-05-24,C051,Customer_051,Chennai,Consumer,Home,Desk,6.0,6708.41,0.087,Card,Mobile App,3.0,4.0,No
+5212,2025-05-24,C096,Customer_096,Mumbai,Corporate,Home,Lamp,6.0,826.04,0.048,Card,Website,4.0,5.0,No
+5370,2025-05-25,C073,Customer_073,Hyderabad,Consumer,Electronics,Keyboard,6.0,1904.17,0.086,Card,Mobile App,5.0,4.0,No
+5500,2025-05-25,C068,Customer_068,Bengaluru,Consumer,Electronics,Monitor,1.0,12364.77,0.035,UPI,Mobile App,4.0,4.0,No
+5161,2025-05-25,C081,Customer_081,Mumbai,Corporate,Electronics,Keyboard,1.0,1912.72,0.072,UPI,Store,1.0,5.0,No
+5580,2025-05-25,C038,Customer_038,Delhi,Corporate,Accessories,Laptop Stand,4.0,1292.64,0.049,Card,Store,6.0,4.0,No
+5438,2025-05-26,C095,Customer_095,Bengaluru,Corporate,Home,Desk,4.0,6664.5,0.081,Cash,Mobile App,5.0,4.0,No
+5286,2025-05-27,C094,Customer_094,Bengaluru,Small Business,Electronics,Mouse,5.0,901.68,0.0,UPI,Website,4.0,5.0,No
+5432,2025-05-27,C023,Customer_023,Hyderabad,Small Business,Electronics,Monitor,6.0,12816.72,0.0,Card,Store,1.0,5.0,No
+5308,2025-05-28,C083,Customer_083,Mumbai,Consumer,Office,Pen,1.0,22.89,0.019,Card,Store,7.0,3.0,No
+5411,2025-05-28,C012,Customer_012,Hyderabad,Small Business,Office,Printer Paper,1.0,328.01,0.121,UPI,Store,7.0,5.0,No
+5394,2025-05-28,C015,Customer_015,Delhi,Corporate,Office,Notebook,2.0,121.4,0.157,UPI,Website,5.0,5.0,No
+5435,2025-05-28,C072,Customer_072,Bengaluru,Consumer,Home,Desk,6.0,7981.89,0.1,UPI,Mobile App,4.0,3.0,No
+5262,2025-05-29,C092,Customer_092,Mumbai,Corporate,Home,Table Fan,2.0,2162.2,0.129,Card,Store,3.0,5.0,No
+5035,2025-05-29,C116,Customer_116,Hyderabad,Small Business,Accessories,USB Cable,1.0,449.17,0.157,Card,Website,3.0,3.0,No
+5599,2025-05-30,C051,Customer_051,Chennai,Consumer,Electronics,Headset,3.0,2322.46,0.031,UPI,Website,1.0,4.0,Yes
+5380,2025-05-30,C097,Customer_097,Bengaluru,Consumer,Office,Notebook,7.0,119.75,0.046,Cash,Mobile App,6.0,4.0,No
+5392,2025-05-31,C025,Customer_025,Mumbai,Consumer,Home,Table Fan,3.0,2116.93,0.195,UPI,Store,6.0,4.0,No
+5536,2025-05-31,C101,Customer_101,Hyderabad,Consumer,Home,Chair,3.0,4152.53,0.107,UPI,Website,3.0,5.0,No
+5405,2025-06-01,C098,Customer_098,Chennai,Consumer,Home,Desk,8.0,6279.92,0.077,UPI,Store,7.0,4.0,No
+5581,2025-06-01,C093,Customer_093,Delhi,Consumer,Office,Notebook,5.0,133.58,0.034,Card,Store,3.0,3.0,No
+5082,2025-06-03,C006,Customer_006,Hyderabad,Consumer,Home,Table Fan,1.0,2051.97,0.047,Card,Website,5.0,4.0,No
+5329,2025-06-03,C047,Customer_047,Bengaluru,Small Business,Electronics,Mouse,6.0,820.52,0.159,UPI,Mobile App,2.0,3.0,No
+5045,2025-06-04,C039,Customer_039,Chennai,Corporate,Accessories,Phone Case,3.0,653.19,0.077,UPI,Store,7.0,4.0,No
+5191,2025-06-04,C115,Customer_115,Chennai,Small Business,Home,Table Fan,1.0,2226.35,0.103,UPI,Website,3.0,3.0,Yes
+5489,2025-06-04,C111,Customer_111,Delhi,Consumer,Office,Marker,6.0,60.06,0.08,Card,Website,6.0,4.0,No
+5128,2025-06-05,C062,Customer_062,Delhi,Small Business,Accessories,Phone Case,6.0,568.33,0.083,UPI,Store,8.0,3.0,No
+5110,2025-06-06,C102,Customer_102,Mumbai,Consumer,Electronics,Headset,7.0,100000.0,0.087,Cash,Mobile App,9.0,3.0,No
+5338,2025-06-06,C013,Customer_013,Mumbai,Corporate,Home,Chair,7.0,4530.71,0.125,UPI,Website,6.0,3.0,No
+5293,2025-06-07,C001,Customer_001,Mumbai,Corporate,Home,Desk,8.0,6428.7,0.095,Card,Website,6.0,5.0,No
+5340,2025-06-07,C120,Customer_120,Mumbai,Consumer,Office,Stapler,2.0,175.0,0.094,Card,Website,6.0,4.0,No
+5381,2025-06-08,C117,Customer_117,Mumbai,Consumer,Electronics,Mouse,2.0,902.9,,UPI,Mobile App,4.0,5.0,No
+5119,2025-06-08,C076,Customer_076,Bengaluru,Consumer,Office,Pen,5.0,24.31,0.1,upi,Website,4.0,4.0,No
+5445,2025-06-08,C030,Customer_030,Mumbai,Consumer,Electronics,Webcam,1.0,2450.17,0.019,Card,Website,6.0,4.0,No
+5054,2025-06-08,C035,Customer_035,Delhi,Consumer,Office,Stapler,3.0,171.64,0.076,Card,Mobile App,6.0,3.0,No
+5074,2025-06-09,C039,Customer_039,Chennai,Corporate,Accessories,Laptop Stand,1.0,1362.08,0.045,Card,Website,5.0,,No
+5036,2025-06-09,C013,Customer_013,Mumbai,Corporate,Home,Chair,6.0,4442.12,0.091,Card,Website,2.0,4.0,No
+5224,2025-06-10,C021,Customer_021,Mumbai,Consumer,Electronics,Monitor,3.0,11679.7,0.062,Card,Mobile App,5.0,4.0,No
+5201,2025-06-10,C087,Customer_087,Mumbai,Consumer,Electronics,Webcam,4.0,2567.95,0.051,UPI,Mobile App,2.0,2.0,No
+5245,2025-06-10,C095,Customer_095,Bengaluru,Corporate,Accessories,USB Cable,3.0,452.56,0.129,Cash,Mobile App,6.0,3.0,No
+5476,2025-06-11,C074,Customer_074,Bengaluru,Small Business,Electronics,Headset,1.0,2160.45,0.089,upi,Mobile App,2.0,3.0,No
+5200,2025-06-13,C113,Customer_113,Bengaluru,Small Business,Home,Chair,1.0,4081.22,0.077,UPI,Website,6.0,4.0,No
+5263,2025-06-14,C077,Customer_077,Bengaluru,Corporate,Accessories,Power Bank,2.0,1736.71,0.072,UPI,Website,4.0,2.0,No
+5573,2025-06-15,C061,Customer_061,Mumbai,Small Business,Office,Notebook,5.0,116.72,0.077,UPI,Mobile App,3.0,4.0,No
+5517,2025-06-15,C064,Customer_064,Mumbai,Consumer,Accessories,Power Bank,1.0,1992.06,0.076,Net Banking,Website,4.0,3.0,No
+5563,2025-06-16,C050,Customer_050,Chennai,Small Business,Office,Printer Paper,1.0,361.57,0.094,Card,Website,6.0,5.0,No
+5111,2025-06-16,C097,Customer_097,Bengaluru,Consumer,Home,Lamp,6.0,849.97,0.1,UPI,Website,3.0,5.0,No
+5136,2025-06-17,C077,Customer_077,Bengaluru,Corporate,Home,Lamp,4.0,793.02,0.089,Card,Website,5.0,4.0,No
+5252,2025-06-18,C051,Customer_051,Chennai,Consumer,Home,Table Fan,6.0,2085.0,0.084,Cash,Mobile App,5.0,4.0,No
+5412,2025-06-19,C086,Customer_086,Chennai,Consumer,Electronics,Webcam,6.0,2380.28,0.063,Card,Website,5.0,5.0,No
+5406,2025-06-20,C089,Customer_089,Chennai,Consumer,Electronics,Mouse,3.0,861.45,0.2,UPI,Mobile App,7.0,4.0,No
+5210,2025-06-20,C094,Customer_094,Bengaluru,Small Business,Accessories,Laptop Stand,-2.0,1402.72,0.067,Card,Website,6.0,5.0,No
+5259,2025-06-21,C089,Customer_089,Chennai,Consumer,Office,Marker,7.0,56.31,0.052,Cash,Mobile App,3.0,5.0,No
+5096,2025-06-21,C045,Customer_045,Hyderabad,Corporate,Electronics,Headset,5.0,2236.15,0.045,Card,Website,6.0,4.0,No
+5033,2025-06-22,C101,Customer_101,Hyderabad,Consumer,Home,Desk,1.0,7015.76,0.046,Net Banking,Mobile App,7.0,4.0,No
+5530,2025-06-22,C063,Customer_063,Delhi,Consumer,Home,Chair,7.0,4540.75,0.072,UPI,Mobile App,4.0,3.0,No
+5243,2025-06-22,C102,Customer_102,Mumbai,Consumer,Home,Chair,8.0,4283.56,0.034,Card,Website,5.0,4.0,No
+5571,2025-06-23,C061,Customer_061,Mumbai,Small Business,Electronics,Monitor,7.0,12339.29,0.007,Card,Website,6.0,4.0,No
+5100,2025-06-23,C013,Customer_013,Mumbai,Corporate,Accessories,Phone Case,3.0,588.22,0.068,Card,Mobile App,3.0,4.0,No
+5080,2025-06-24,C103,Customer_103,Bengaluru,Corporate,Electronics,Keyboard,8.0,1654.55,0.066,UPI,Website,2.0,3.0,No
+5382,2025-06-24,C112,Customer_112,Chennai,Consumer,Accessories,Power Bank,4.0,1567.15,0.078,UPI,Mobile App,4.0,4.0,No
+5176,2025-06-24,C064,Customer_064,Mumbai,Consumer,Electronics,Mouse,6.0,866.73,0.124,UPI,Website,4.0,4.0,No
+5258,2025-06-24,C041,Customer_041,Delhi,Consumer,Electronics,Mouse,1.0,911.63,0.028,Card,Store,1.0,3.0,No
+5547,2025-06-25,C010,Customer_010,Delhi,Corporate,Office,Pen,3.0,26.41,0.054,Card,Website,,3.0,No
+5192,2025-06-25,C074,Customer_074,Bengaluru,Small Business,Electronics,Monitor,2.0,11329.1,0.029,Net Banking,Store,6.0,5.0,No
+5078,2025-06-27,C106,Customer_106,Mumbai,Small Business,Home,Chair,7.0,4802.27,0.086,UPI,Website,4.0,5.0,No
+5135,2025-06-28,C083,Customer_083,Mumbai,Consumer,Office,Pen,8.0,25.09,0.0,UPI,Mobile App,3.0,4.0,No
+5261,2025-06-29,C099,Customer_099,Chennai,Small Business,Office,Pen,4.0,23.2,0.119,UPI,Website,6.0,4.0,No
+5260,2025-06-30,C108,Customer_108,Bengaluru,Corporate,Office,Marker,2.0,63.27,0.049,UPI,Store,9.0,5.0,No
+5570,2025-06-30,C015,Customer_015,Delhi,Corporate,Electronics,Keyboard,4.0,1865.71,0.067,UPI,Store,7.0,4.0,No
+5097,2025-06-30,C112,Customer_112,Chennai,Consumer,Office,Stapler,2.0,176.75,0.006,Card,Website,9.0,4.0,No
+5068,2025-07-01,C071,Customer_071,Chennai,Small Business,Electronics,Webcam,7.0,2342.22,0.051,Net Banking,Mobile App,5.0,4.0,No
+5236,2025-07-01,C096,Customer_096,Mumbai,Corporate,Accessories,Power Bank,2.0,1706.78,0.028,UPI,Mobile App,6.0,5.0,No
+5494,2025-07-03,C057,Customer_057,Delhi,Consumer,Accessories,Phone Case,1.0,626.14,0.025,UPI,Store,8.0,5.0,No
+5132,2025-07-04,C056,Customer_056,Mumbai,Consumer,Office,Notebook,4.0,113.69,0.026,Card,Website,8.0,4.0,No
+5496,2025-07-04,C028,Customer_028,Chennai,Consumer,Office,Pen,3.0,23.5,0.054,Net Banking,Mobile App,4.0,3.0,No
+5497,2025-07-04,C012,Customer_012,Hyderabad,Small Business,Home,Desk,6.0,7015.46,0.056,UPI,Mobile App,7.0,4.0,No
+5249,2025-07-04,C059,Customer_059,Chennai,Small Business,Office,Notebook,7.0,107.02,0.108,Card,Store,7.0,3.0,No
+5021,2025-07-05,C014,Customer_014,Hyderabad,Consumer,Electronics,Keyboard,1.0,1742.93,0.121,UPI,Mobile App,2.0,3.0,No
+5072,2025-07-05,C048,Customer_048,Bengaluru,Small Business,Office,Printer Paper,2.0,330.73,0.102,UPI,Mobile App,4.0,5.0,No
+5079,2025-07-07,C096,Customer_096,Mumbai,Corporate,Electronics,Webcam,2.0,2544.54,0.06,Cash,Website,6.0,3.0,No
+5431,2025-07-07,C093,Customer_093,Delhi,Consumer,Electronics,Monitor,1.0,12107.17,0.099,Card,Mobile App,6.0,4.0,No
+5541,2025-07-08,C007,Customer_007,Mumbai,Consumer,Electronics,Mouse,4.0,895.13,0.044,UPI,Website,4.0,3.0,No
+5070,2025-07-09,C082,Customer_082,Bengaluru,Small Business,Home,Desk,2.0,6488.98,0.032,UPI,Mobile App,4.0,5.0,No
+5364,2025-07-09,C005,Customer_005,Chennai,Consumer,Home,Lamp,7.0,776.2,0.118,Cash,Mobile App,4.0,3.0,No
+5457,2025-07-10,C019,Customer_019,Hyderabad,Corporate,Office,Marker,2.0,56.13,0.09,Card,Website,1.0,3.0,No
+5512,2025-07-10,C066,Customer_066,Delhi,Corporate,Electronics,Monitor,4.0,12958.13,0.11,Card,Mobile App,,4.0,No
+5589,2025-07-11,C041,Customer_041,Delhi,Consumer,Office,Stapler,7.0,183.92,0.123,UPI,Store,5.0,5.0,No
+5480,2025-07-12,C050,Customer_050,Chennai,Small Business,Home,Lamp,3.0,874.53,0.102,Cash,Mobile App,7.0,4.0,No
+5385,2025-07-12,C102,Customer_102,Mumbai,Consumer,Electronics,Keyboard,7.0,1841.8,0.078,UPI,Website,4.0,2.0,No
+5069,2025-07-13,C062,Customer_062,Delhi,Small Business,Office,Pen,1.0,24.78,0.093,UPI,Mobile App,2.0,4.0,No
+5598,2025-07-13,C020,Customer_020,Mumbai,Consumer,Home,Table Fan,8.0,2353.77,0.012,Card,Website,5.0,4.0,No
+5164,2025-07-13,C058,Customer_058,Delhi,Small Business,Accessories,USB Cable,6.0,467.7,0.06,UPI,Mobile App,4.0,4.0,No
+5137,2025-07-14,C030,Customer_030,Mumbai,Consumer,Accessories,Phone Case,3.0,614.93,0.051,Card,Website,2.0,4.0,No
+5231,2025-07-16,C082,Customer_082,Bengaluru,Small Business,Electronics,Monitor,3.0,11737.08,0.118,Card,Website,4.0,3.0,No
+5465,2025-07-16,C016,Customer_016,Chennai,Consumer,Office,Notebook,2.0,113.2,0.035,UPI,Mobile App,3.0,4.0,No
+5419,2025-07-16,C009,Customer_009,Chennai,Consumer,Home,Chair,8.0,4430.01,0.0,UPI,Website,2.0,4.0,No
+5016,2025-07-16,C050,Customer_050,Chennai,Small Business,Electronics,Headset,4.0,2284.61,0.09,UPI,Website,6.0,4.0,No
+5587,2025-07-16,C112,Customer_112,Chennai,Consumer,Home,Lamp,6.0,864.12,0.119,UPI,Website,8.0,5.0,No
+5044,2025-07-17,C099,Customer_099,Chennai,Small Business,Home,Desk,3.0,6836.77,0.031,UPI,Store,3.0,3.0,No
+5461,2025-07-17,C083,Customer_083,Mumbai,Consumer,Electronics,Monitor,7.0,11892.91,0.124,UPI,Website,2.0,3.0,No
+5597,2025-07-19,C086,Customer_086,Chennai,Consumer,Home,Desk,7.0,6820.83,0.115,UPI,Store,8.0,4.0,No
+5186,2025-07-20,C084,Customer_084,Chennai,Consumer,Electronics,Monitor,7.0,12157.39,0.072,UPI,Website,6.0,3.0,No
+5266,2025-07-21,C044,Customer_044,Bengaluru,Consumer,Electronics,Keyboard,8.0,1770.74,0.092,Cash,Mobile App,8.0,5.0,No
+5296,2025-07-23,C115,Customer_115,Chennai,Small Business,Office,Pen,8.0,25.35,0.137,Card,Mobile App,5.0,5.0,Yes
+5003,2025-07-25,C031,Customer_031,Mumbai,Small Business,Accessories,Laptop Stand,1.0,1417.11,0.038,UPI,Website,5.0,5.0,No
+5335,2025-07-25,C094,Customer_094,Bengaluru,Small Business,Office,Notebook,6.0,116.45,0.016,Cash,Store,3.0,5.0,No
+5568,2025-07-25,C073,Customer_073,Hyderabad,Consumer,Home,Lamp,1.0,874.36,0.041,Card,Website,7.0,4.0,No
+5379,2025-07-25,C081,Customer_081,Mumbai,Corporate,Home,Desk,2.0,6459.83,0.15,UPI,Store,6.0,5.0,No
+5153,2025-07-25,C053,Customer_053,Mumbai,Consumer,Electronics,Monitor,7.0,12996.03,0.037,UPI,Mobile App,4.0,4.0,No
+5264,2025-07-27,C033,Customer_033,Bengaluru,Consumer,Office,Pen,3.0,25.25,0.152,UPI,Mobile App,5.0,5.0,No
+5012,2025-07-27,C105,Customer_105,Mumbai,Consumer,Electronics,Keyboard,2.0,1910.69,0.132,Card,Store,2.0,4.0,No
+5356,2025-07-28,C094,Customer_094,Bengaluru,Small Business,Accessories,USB Cable,8.0,481.29,0.065,UPI,Store,3.0,4.0,No
+5355,2025-07-28,C103,Customer_103,Bengaluru,Corporate,Office,Notebook,3.0,111.18,0.081,UPI,Website,3.0,4.0,No
+5347,2025-07-31,C082,Customer_082,Bengaluru,Small Business,Home,Table Fan,3.0,2099.23,0.042,UPI,Website,6.0,5.0,No
+5257,2025-07-31,C088,Customer_088,Delhi,Corporate,Electronics,Keyboard,3.0,1729.37,0.047,Card,Mobile App,7.0,3.0,No
+5498,2025-08-01,C069,Customer_069,Chennai,Corporate,Home,Table Fan,8.0,2222.84,0.117,Net Banking,Website,2.0,3.0,No
+5195,2025-08-01,C075,Customer_075,Chennai,Consumer,Electronics,Monitor,3.0,11912.62,0.105,Cash,Store,5.0,5.0,No
+5067,2025-08-03,C052,Customer_052,Chennai,Consumer,Accessories,Laptop Stand,8.0,1311.2,0.079,UPI,Store,6.0,2.0,No
+5086,2025-08-05,C029,Customer_029,Chennai,Consumer,Home,Chair,1.0,3842.18,0.104,Card,Store,5.0,2.0,No
+5139,2025-08-07,C008,Customer_008,Mumbai,Consumer,Electronics,Keyboard,4.0,1809.5,0.035,Cash,Website,1.0,5.0,No
+5535,2025-08-07,C063,Customer_063,Delhi,Consumer,Accessories,USB Cable,1.0,420.91,0.114,Card,Mobile App,3.0,4.0,No
+5127,2025-08-07,C039,Customer_039,Chennai,Corporate,Accessories,Laptop Stand,5.0,1454.14,0.073,UPI,Store,3.0,5.0,No
+5093,2025-08-07,C034,Customer_034,Bengaluru,Corporate,Electronics,Monitor,5.0,13261.64,0.142,UPI,Mobile App,4.0,4.0,No
+5543,2025-08-08,C105,Customer_105,Mumbai,Consumer,Accessories,USB Cable,5.0,441.77,0.113,UPI,Mobile App,5.0,2.0,No
+5423,2025-08-08,C027,Customer_027,Delhi,Consumer,Electronics,Keyboard,3.0,1883.43,0.198,UPI,Website,7.0,3.0,No
+5467,2025-08-08,C117,Customer_117,Mumbai,Consumer,Accessories,USB Cable,4.0,467.1,0.057,Card,Store,3.0,3.0,Yes
+5569,2025-08-09,C081,Customer_081, Chennai ,Corporate,Accessories,Laptop Stand,5.0,1466.31,0.214,Card,Store,5.0,4.0,No
+5556,2025-08-10,C090,Customer_090,Delhi,Consumer,Home,Desk,5.0,7283.56,0.093,Card,Website,7.0,4.0,No
+5290,2025-08-10,C046,Customer_046,Mumbai,Consumer,Electronics,Headset,4.0,2226.19,0.053,UPI,Website,5.0,4.0,No
+5345,2025-08-11,C075,Customer_075,Chennai,Consumer,Electronics,Headset,8.0,2287.12,0.139,UPI,Website,5.0,5.0,No
+5545,2025-08-11,C099,Customer_099,Chennai,Small Business,Accessories,Phone Case,8.0,570.98,0.083,Card,Website,,3.0,No
+5091,2025-08-12,C114,Customer_114,Delhi,Corporate,Accessories,USB Cable,7.0,407.02,0.0,UPI,Mobile App,5.0,5.0,No
+5244,2025-08-12,C015,Customer_015, Chennai ,Corporate,Office,Marker,5.0,55.41,0.129,Card,Mobile App,4.0,3.0,No
+5537,2025-08-13,C047,Customer_047,Bengaluru,Small Business,Office,Printer Paper,2.0,383.24,0.092,UPI,Mobile App,4.0,4.0,No
+5297,2025-08-13,C051,Customer_051,Chennai,Consumer,Office,Pen,6.0,26.45,0.08,Card,Website,4.0,3.0,No
+5451,2025-08-13,C065,Customer_065,Mumbai,Corporate,Office,Stapler,6.0,190.11,0.038,Card,Store,4.0,4.0,No
+5047,2025-08-14,C111,Customer_111,Delhi,Consumer,Electronics,Keyboard,3.0,1658.33,0.137,UPI,Store,7.0,3.0,No
+5464,2025-08-14,C057,Customer_057,Delhi,Consumer,Electronics,Headset,1.0,2131.16,0.033,Net Banking,Website,7.0,4.0,No
+5024,2025-08-14,C105,Customer_105,Mumbai,Consumer,Office,Stapler,8.0,191.31,0.121,Card,Store,5.0,3.0,No
+5037,2025-08-15,C106,Customer_106,Mumbai,Small Business,Accessories,USB Cable,8.0,411.07,0.052,UPI,Website,5.0,5.0,No
+5487,2025-08-15,C073,Customer_073,Hyderabad,Consumer,Accessories,Laptop Stand,7.0,1315.8,0.143,UPI,Store,6.0,3.0,No
+5241,2025-08-16,C017,Customer_017,Delhi,Small Business,Electronics,Mouse,4.0,837.26,0.0,Card,Website,8.0,4.0,No
+5018,2025-08-17,C045,Customer_045,Hyderabad,Corporate,Home,Lamp,7.0,798.35,0.035,Card,Mobile App,2.0,4.0,No
+5146,2025-08-17,C028,Customer_028,Chennai,Consumer,Home,Desk,8.0,7369.16,0.057,Card,Website,3.0,4.0,No
+5027,2025-08-17,C064,Customer_064,Mumbai,Consumer,Office,Pen,5.0,27.88,0.0,UPI,Website,4.0,4.0,No
+5129,2025-08-18,C117,Customer_117,Mumbai,Consumer,Electronics,Mouse,8.0,936.38,0.086,Card,Website,3.0,3.0,No
+5237,2025-08-18,C063,Customer_063,Delhi,Consumer,Office,Printer Paper,1.0,377.16,0.08,Cash,Store,6.0,5.0,No
+5291,2025-08-18,C079,Customer_079,Delhi,Consumer,Office,Stapler,2.0,171.71,0.038,Card,Mobile App,4.0,3.0,No
+5305,2025-08-18,C058,Customer_058,Delhi,Small Business,Electronics,Keyboard,6.0,1728.09,,Card,Website,3.0,4.0,No
+5116,2025-08-19,C097,Customer_097,Bengaluru,Consumer,Home,Desk,7.0,7115.0,0.139,Card,Mobile App,3.0,5.0,No
+5437,2025-08-19,C066,Customer_066,Delhi,Corporate,Home,Lamp,3.0,866.53,0.071,UPI,Mobile App,3.0,4.0,No
+5421,2025-08-21,C001,Customer_001,Mumbai,Corporate,Office,Stapler,2.0,181.16,0.066,Card,Website,5.0,5.0,Yes
+5528,2025-08-21,C061,Customer_061,Mumbai,Small Business,Office,Pen,8.0,23.35,0.117,UPI,Website,5.0,5.0,No
+5090,2025-08-21,C069,Customer_069,Chennai,Corporate,Accessories,USB Cable,7.0,479.95,0.105,UPI,Store,7.0,4.0,No
+5112,2025-08-21,C109,Customer_109,Chennai,Corporate,Accessories,USB Cable,7.0,451.07,,Card,Website,,4.0,No
+5444,2025-08-22,C018,Customer_018,Chennai,Consumer,Home,Lamp,6.0,845.16,0.109,UPI,Mobile App,4.0,3.0,Yes
+5267,2025-08-23,C064,Customer_064,Mumbai,Consumer,Office,Printer Paper,4.0,345.04,0.039,Card,Store,5.0,4.0,No
+5238,2025-08-23,C060,Customer_060,Chennai,Corporate,Electronics,Mouse,6.0,827.09,0.074,UPI,Website,4.0,4.0,Yes
+5386,2025-08-23,C084,Customer_084,Chennai,Consumer,Electronics,Mouse,5.0,837.7,0.051,UPI,Website,4.0,4.0,No
+5106,2025-08-25,C111,Customer_111,Delhi,Consumer,Accessories,Power Bank,5.0,1767.12,0.062,UPI,Website,6.0,4.0,No
+5025,2025-08-26,C033,Customer_033,Bengaluru,Consumer,Office,Stapler,4.0,164.9,0.05,UPI,Store,3.0,5.0,Yes
+5050,2025-08-27,C111,Customer_111,Delhi,Consumer,Electronics,Monitor,3.0,12067.25,0.069,Card,Store,4.0,3.0,No
+5393,2025-08-27,C014,Customer_014,Hyderabad,Consumer,Home,Table Fan,7.0,2261.75,0.076,UPI,Website,5.0,4.0,No
+5529,2025-08-29,C089,Customer_089,Chennai,Consumer,Electronics,Webcam,8.0,2535.14,0.047,UPI,Mobile App,7.0,3.0,No
+5017,2025-08-29,C015,Customer_015,Delhi,Corporate,Electronics,Monitor,3.0,12415.12,0.139,UPI,Website,1.0,4.0,No
+5558,2025-08-29,C002,Customer_002,Delhi,Corporate,Accessories,Power Bank,4.0,1911.65,0.099,Card,Website,1.0,4.0,No
+5120,2025-08-30,C078,Customer_078,Mumbai,Small Business,Home,Desk,5.0,7279.03,0.0,Net Banking,Mobile App,6.0,5.0,No
+5279,2025-09-01,C016,Customer_016,Chennai,Consumer,Office,Notebook,7.0,125.54,0.106,Card,Mobile App,3.0,4.0,No
+5313,2025-09-02,C087,Customer_087,Mumbai,Consumer,Accessories,Phone Case,4.0,622.52,0.052,UPI,Mobile App,4.0,5.0,No
+5052,2025-09-03,C020,Customer_020,Mumbai,Consumer,Home,Table Fan,3.0,2135.09,0.051,UPI,Website,7.0,5.0,No
+5122,2025-09-03,C094,Customer_094,Bengaluru,Small Business,Accessories,Phone Case,3.0,617.42,0.074,UPI,Website,5.0,3.0,No
+5495,2025-09-03,C018,Customer_018,Chennai,Consumer,Home,Desk,7.0,6608.95,0.091,UPI,Website,1.0,3.0,No
+5353,2025-09-04,C055,Customer_055,Mumbai,Consumer,Electronics,Headset,7.0,2051.77,0.162,Card,Website,3.0,3.0,No
+5326,2025-09-05,C094,Customer_094,Bengaluru,Small Business,Accessories,Power Bank,6.0,1814.03,0.0,Card,Website,3.0,4.0,No
+5510,2025-09-05,C095,Customer_095,Bengaluru,Corporate,Electronics,Headset,6.0,2139.79,0.047,Card,Mobile App,8.0,4.0,No
+5312,2025-09-06,C055,Customer_055,Mumbai,Consumer,Electronics,Keyboard,8.0,1928.39,0.12,UPI,Mobile App,1.0,5.0,No
+5388,2025-09-09,C101,Customer_101,Hyderabad,Consumer,Accessories,Power Bank,5.0,1910.42,0.096,UPI,Website,6.0,3.0,No
+5225,2025-09-13,C016,Customer_016,Chennai,Consumer,Accessories,USB Cable,7.0,477.73,0.059,Card,Mobile App,7.0,5.0,No
+5341,2025-09-13,C003,Customer_003,Hyderabad,Consumer,Home,Table Fan,1.0,2331.55,0.012,UPI,Mobile App,5.0,4.0,No
+5125,2025-09-15,C100,Customer_100,Hyderabad,Consumer,Home,Lamp,5.0,889.23,0.076,Net Banking,Mobile App,5.0,,No
+5188,2025-09-15,C104,Customer_104,Hyderabad,Small Business,Electronics,Webcam,8.0,2198.82,0.212,Card,Store,1.0,5.0,No
+5185,2025-09-16,C072,Customer_072,Bengaluru,Consumer,Electronics,Mouse,6.0,976.79,0.068,Card,Website,3.0,5.0,No
+5170,2025-09-16,C102,Customer_102,Mumbai,Consumer,Home,Chair,6.0,4443.56,0.097,Net Banking,Mobile App,3.0,4.0,No
+5566,2025-09-17,C019,Customer_019,Hyderabad,Corporate,Office,Marker,2.0,60.5,0.073,Net Banking,Website,2.0,4.0,No
+5255,2025-09-17,C025,Customer_025,Mumbai,Consumer,Electronics,Headset,3.0,2232.39,0.109,UPI,Store,3.0,4.0,No
+5271,2025-09-18,C116,Customer_116,Hyderabad,Small Business,Electronics,Webcam,8.0,2486.71,0.063,UPI,Mobile App,3.0,4.0,No
+5101,2025-09-19,C012,Customer_012,Hyderabad,Small Business,Office,Notebook,4.0,118.93,0.144,Card,Website,5.0,4.0,No
+5061,2025-09-19,C086,Customer_086,Chennai,Consumer,Home,Lamp,2.0,965.65,0.095,Cash,Store,7.0,5.0,No
+5213,2025-09-20,C112,Customer_112,Chennai,Consumer,Electronics,Headset,3.0,2257.48,0.067,UPI,Website,7.0,4.0,No
+5105,2025-09-20,C049,Customer_049,Mumbai,Consumer,Office,Notebook,4.0,123.19,0.077,Card,Website,3.0,4.0,No
+5089,2025-09-20,C078,Customer_078,Mumbai,Small Business,Office,Notebook,3.0,128.73,0.158,UPI,Store,5.0,3.0,Yes
+5058,2025-09-21,C014,Customer_014,Hyderabad,Consumer,Office,Stapler,2.0,191.87,0.072,UPI,Website,,3.0,No
+5520,2025-09-21,C062,Customer_062,Delhi,Small Business,Office,Pen,5.0,25.02,0.087,Net Banking,Website,5.0,5.0,No
+5167,2025-09-23,C056,Customer_056,Mumbai,Consumer,Office,Printer Paper,1.0,371.51,0.134,Cash,Store,2.0,,No
+5474,2025-09-23,C052,Customer_052,Chennai,Consumer,Accessories,Phone Case,2.0,569.37,0.09,UPI,Website,3.0,3.0,No
+5400,2025-09-24,C076,Customer_076,Bengaluru,Consumer,Electronics,Keyboard,8.0,1894.05,0.159,Cash,Website,3.0,4.0,No
+5365,2025-09-24,C001,Customer_001,Mumbai,Corporate,Accessories,Laptop Stand,3.0,1544.68,0.065,Card,Website,4.0,3.0,No
+5085,2025-09-25,C107,Customer_107,Delhi,Consumer,Accessories,Power Bank,1.0,1810.31,0.057,Card,Website,3.0,3.0,No
+5151,2025-09-25,C089,Customer_089,Chennai,Consumer,Electronics,Monitor,7.0,11661.27,0.203,UPI,Website,6.0,4.0,No
+5134,2025-09-26,C047,Customer_047,Bengaluru,Small Business,Office,Printer Paper,5.0,365.69,0.144,UPI,Website,3.0,3.0,No
+5593,2025-09-26,C091,Customer_091,Chennai,Corporate,Electronics,Headset,3.0,1991.4,0.031,UPI,Website,3.0,4.0,No
+5508,2025-09-26,C038,Customer_038,Delhi,Corporate,Office,Notebook,4.0,127.78,0.023,Net Banking,Website,3.0,5.0,No
+5349,2025-09-27,C104,Customer_104,Hyderabad,Small Business,Electronics,Webcam,4.0,2350.85,0.0,UPI,Website,4.0,4.0,No
+5387,2025-09-27,C099,Customer_099,Chennai,Small Business,Electronics,Keyboard,3.0,1817.11,0.086,Cash,Store,5.0,3.0,No
+5383,2025-09-28,C015,Customer_015,Delhi,Corporate,Office,Notebook,3.0,113.41,0.131,Card,Website,4.0,4.0,No
+5315,2025-09-28,C052,Customer_052,Chennai,Consumer,Electronics,Keyboard,6.0,1991.94,0.131,UPI,Store,5.0,4.0,No
+5140,2025-09-29,C017,Customer_017,Delhi,Small Business,Home,Lamp,2.0,861.2,0.072,Card,Store,5.0,3.0,No
+5482,2025-09-29,C050,Customer_050,Chennai,Small Business,Office,Marker,2.0,62.17,0.038,UPI,Mobile App,5.0,4.0,No
+5303,2025-09-30,C015,Customer_015,Delhi,Corporate,Office,Pen,6.0,28.32,0.039,Cash,Website,4.0,5.0,No
+5592,2025-09-30,C026,Customer_026,Chennai,Consumer,Home,Table Fan,5.0,2328.17,0.099,Card,Mobile App,7.0,5.0,No
+5372,2025-09-30,C097,Customer_097,Bengaluru,Consumer,Accessories,Power Bank,6.0,1857.31,0.178,Card,Website,4.0,4.0,No
+5148,2025-09-30,C045,Customer_045,Hyderabad,Corporate,Accessories,Laptop Stand,1.0,1289.94,0.06,Card,Website,6.0,5.0,No
+5107,2025-09-30,C083,Customer_083,Mumbai,Consumer,Electronics,Headset,5.0,2145.93,0.15,UPI,Website,5.0,4.0,No
+5486,2025-10-01,C071,Customer_071,Chennai,Small Business,Home,Desk,4.0,6217.76,0.119,UPI,Mobile App,4.0,5.0,No
+5577,2025-10-01,C054,Customer_054,Mumbai,Small Business,Electronics,Mouse,2.0,949.05,0.048,UPI,Website,3.0,3.0,No
+5196,2025-10-01,C088,Customer_088,Delhi,Corporate,Office,Marker,4.0,55.91,0.133,UPI,Website,8.0,5.0,No
+5586,2025-10-01,C047,Customer_047,Bengaluru,Small Business,Office,Notebook,2.0,127.96,0.082,UPI,Mobile App,4.0,4.0,No
+5287,2025-10-01,C074,Customer_074,Bengaluru,Small Business,Office,Stapler,-2.0,177.28,0.086,Cash,Website,3.0,4.0,No
+5173,2025-10-02,C025,Customer_025,Mumbai,Consumer,Accessories,USB Cable,4.0,456.36,0.045,Card,Website,5.0,4.0,No
+5216,2025-10-02,C031,Customer_031,Mumbai,Small Business,Electronics,Keyboard,5.0,1859.6,0.031,Net Banking,Website,6.0,5.0,No
+5402,2025-10-03,C103,Customer_103,Bengaluru,Corporate,Accessories,USB Cable,2.0,401.18,0.149,UPI,Mobile App,5.0,4.0,Yes
+5168,2025-10-05,C065,Customer_065,Mumbai,Corporate,Office,Printer Paper,7.0,356.09,0.02,Card,Mobile App,4.0,4.0,No
+5466,2025-10-05,C015,Customer_015,Delhi,Corporate,Home,Lamp,8.0,916.36,0.076,Card,Store,6.0,5.0,No
+5253,2025-10-05,C111,Customer_111,Delhi,Consumer,Home,Table Fan,3.0,2464.13,0.072,Card,Website,8.0,5.0,No
+5232,2025-10-06,C063,Customer_063,Delhi,Consumer,Office,Stapler,1.0,189.36,0.122,UPI,Website,6.0,4.0,No
+5063,2025-10-06,C024,Customer_024,Hyderabad,Corporate,Accessories,Phone Case,5.0,602.54,0.027,Cash,Mobile App,6.0,5.0,No
+5265,2025-10-06,C096,Customer_096,Mumbai,Corporate,Electronics,Headset,8.0,2115.46,,UPI,Mobile App,6.0,4.0,No
+5307,2025-10-07,C004,Customer_004,Mumbai,Consumer,Home,Lamp,2.0,862.84,0.047,UPI,Mobile App,6.0,4.0,No
+5057,2025-10-08,C055,Customer_055,Mumbai,Consumer,Office,Marker,1.0,57.96,0.152,UPI,Website,3.0,4.0,Yes
+5323,2025-10-08,C062,Customer_062,Delhi,Small Business,Office,Printer Paper,1.0,360.01,0.056,Cash,Store,5.0,4.0,No
+5367,2025-10-08,C019,Customer_019,Hyderabad,Corporate,Home,Desk,5.0,7159.47,0.0,UPI,Website,7.0,5.0,No
+5552,2025-10-09,C021,Customer_021,Mumbai,Consumer,Office,Printer Paper,2.0,348.85,0.179,UPI,Website,3.0,4.0,No
+5042,2025-10-09,C018,Customer_018,Chennai,Consumer,Office,Notebook,4.0,114.1,0.078,Card,Website,4.0,4.0,No
+5277,2025-10-09,C089,Customer_089,Chennai,Consumer,Accessories,Power Bank,7.0,1983.23,0.026,UPI,Mobile App,2.0,4.0,No
+5115,2025-10-09,C039,Customer_039,Chennai,Corporate,Accessories,Laptop Stand,4.0,1234.2,0.122,Cash,Website,6.0,4.0,No
+5346,2025-10-09,C011,Customer_011,Bengaluru,Consumer,Home,Desk,2.0,7804.91,0.133,UPI,Website,6.0,5.0,No
+5507,2025-10-10,C074,Customer_074,Bengaluru,Small Business,Electronics,Keyboard,4.0,1865.32,0.171,Card,Website,5.0,4.0,Yes
+5343,2025-10-11,C017,Customer_017,Delhi,Small Business,Accessories,USB Cable,8.0,457.95,0.043,UPI,Mobile App,4.0,3.0,No
+5344,2025-10-11,C079,Customer_079,Delhi,Consumer,Home,Table Fan,5.0,2321.79,0.123,UPI,Website,1.0,5.0,No
+5121,2025-10-11,C074,Customer_074,Bengaluru,Small Business,Electronics,Monitor,6.0,13199.48,0.095,Card,Website,5.0,3.0,No
+5600,2025-10-12,C101,Customer_101,Hyderabad,Consumer,Office,Stapler,6.0,207.78,0.044,Card,Website,6.0,4.0,No
+5549,2025-10-12,C068,Customer_068,Bengaluru,Consumer,Home,Desk,8.0,6739.38,,UPI,Website,3.0,3.0,No
+5470,2025-10-13,C034,Customer_034,Bengaluru,Corporate,Home,Table Fan,7.0,2571.27,0.056,Card,Website,7.0,5.0,No
+5194,2025-10-13,C012,Customer_012,Hyderabad,Small Business,Home,Chair,5.0,4776.62,0.047,Net Banking,Website,3.0,4.0,No
+5108,2025-10-13,C012,Customer_012,Hyderabad,Small Business,Home,Table Fan,5.0,2212.19,0.128,Cash,Store,4.0,2.0,No
+5446,2025-10-13,C114,Customer_114,Delhi,Corporate,Accessories,Phone Case,8.0,697.34,0.098,UPI,Store,4.0,4.0,No
+5542,2025-10-15,C009,Customer_009,Chennai,Consumer,Accessories,Power Bank,7.0,1702.53,0.098,UPI,Mobile App,1.0,4.0,No
+5175,2025-10-15,C067,Customer_067,Delhi,Consumer,Office,Stapler,8.0,173.93,,UPI,Store,2.0,3.0,No
+5502,2025-10-15,C085,Customer_085,Chennai,Consumer,Office,Stapler,4.0,177.68,0.128,UPI,Mobile App,2.0,4.0,No
+5443,2025-10-15,C054,Customer_054,Mumbai,Small Business,Office,Notebook,4.0,129.07,0.075,UPI,Website,5.0,5.0,No
+5250,2025-10-16,C079,Customer_079,Delhi,Consumer,Office,Marker,7.0,57.29,0.092,Net Banking,Mobile App,2.0,4.0,No
+5274,2025-10-17,C113,Customer_113,Bengaluru,Small Business,Office,Notebook,3.0,118.3,0.112,UPI,Mobile App,3.0,4.0,No
+5513,2025-10-18,C024,Customer_024,Hyderabad,Corporate,Electronics,Webcam,6.0,2434.87,0.029,Card,Website,5.0,4.0,No
+5516,2025-10-18,C076,Customer_076,Bengaluru,Consumer,Office,Stapler,1.0,193.95,0.133,Card,Store,3.0,4.0,No
+5416,2025-10-18,C074,Customer_074,Bengaluru,Small Business,Accessories,Laptop Stand,3.0,1476.54,0.003,UPI,Website,4.0,4.0,No
+5019,2025-10-18,C112,Customer_112,Chennai,Consumer,Office,Pen,8.0,25.19,0.03,UPI,Store,4.0,4.0,No
+5505,2025-10-19,C071,Customer_071,Chennai,Small Business,Electronics,Headset,5.0,2176.65,0.127,UPI,Mobile App,5.0,4.0,No
+5177,2025-10-20,C092,Customer_092,Mumbai,Corporate,Office,Stapler,2.0,167.1,0.053,Card,Store,5.0,4.0,No
+5157,2025-10-20,C029,Customer_029,Chennai,Consumer,Office,Printer Paper,8.0,364.11,0.131,Cash,Mobile App,6.0,4.0,No
+5103,2025-10-20,C013,Customer_013,Mumbai,Corporate,Electronics,Headset,5.0,2141.52,0.016,UPI,Website,4.0,5.0,No
+5022,2025-10-20,C079,Customer_079,Delhi,Consumer,Electronics,Monitor,5.0,12954.72,0.013,UPI,Store,8.0,4.0,No
+5420,2025-10-20,C074,Customer_074,Bengaluru,Small Business,Office,Notebook,1.0,120.45,0.133,UPI,Mobile App,4.0,4.0,No
+5055,2025-10-22,C070,Customer_070,Delhi,Consumer,Electronics,Mouse,7.0,866.58,0.032,UPI,Mobile App,3.0,5.0,Yes
+5366,2025-10-23,C001,Customer_001,Mumbai,Corporate,Office,Notebook,6.0,121.96,0.0,Card,Mobile App,5.0,4.0,No
+5318,2025-10-24,C056,Customer_056,Mumbai,Consumer,Accessories,Phone Case,1.0,657.25,0.082,Card,Mobile App,5.0,4.0,No
+5130,2025-10-24,C103,Customer_103,Bengaluru,Corporate,Home,Chair,8.0,4732.34,0.088,Net Banking,Website,5.0,3.0,No
+5198,2025-10-25,C011,Customer_011,Bengaluru,Consumer,Home,Chair,5.0,4428.07,0.085,Card,Store,5.0,3.0,Yes
+5521,2025-10-25,C097,Customer_097,Bengaluru,Consumer,Accessories,Power Bank,7.0,1789.41,0.015,UPI,Mobile App,3.0,3.0,No
+5328,2025-10-25,C014,Customer_014,Hyderabad,Consumer,Office,Pen,4.0,23.0,0.177,Cash,Website,2.0,3.0,Yes
+5575,2025-10-26,C010,Customer_010,Delhi,Corporate,Accessories,Phone Case,6.0,560.74,0.108,UPI,Website,5.0,4.0,No
+5202,2025-10-27,C017,Customer_017,Delhi,Small Business,Electronics,Headset,4.0,2140.6,0.058,Card,Website,6.0,4.0,No
+5484,2025-10-27,C027,Customer_027,Delhi,Consumer,Office,Notebook,4.0,135.27,0.09,UPI,Mobile App,2.0,5.0,No
+5065,2025-10-28,C100,Customer_100,Hyderabad,Consumer,Accessories,Phone Case,4.0,572.01,0.144,Cash,Store,3.0,3.0,No
+5289,2025-10-28,C017,Customer_017,Delhi,Small Business,Accessories,Laptop Stand,2.0,1375.65,0.014,Card,Mobile App,3.0,,No
+5104,2025-10-28,C007,Customer_007,Mumbai,Consumer,Electronics,Keyboard,1.0,1795.71,0.028,Card,Mobile App,6.0,3.0,No
+5560,2025-10-30,C100,Customer_100,Hyderabad,Consumer,Electronics,Headset,5.0,2243.82,0.074,Card,Mobile App,5.0,5.0,No
+5187,2025-10-30,C061,Customer_061,Mumbai,Small Business,Electronics,Keyboard,-2.0,1810.96,0.059,Cash,Mobile App,5.0,4.0,No
+5501,2025-10-31,C071,Customer_071,Chennai,Small Business,Electronics,Keyboard,3.0,1801.52,0.088,UPI,Store,4.0,5.0,No
+5247,2025-10-31,C087,Customer_087,Mumbai,Consumer,Accessories,Laptop Stand,6.0,1216.85,0.105,UPI,Mobile App,5.0,4.0,No
+5350,2025-11-01,C004,Customer_004, Chennai ,Consumer,Office,Notebook,5.0,124.76,0.151,Card,Website,3.0,5.0,No
+5310,2025-11-01,C002,Customer_002,Delhi,Corporate,Accessories,Laptop Stand,6.0,1392.09,0.084,UPI,Store,8.0,5.0,No
+5268,2025-11-02,C038,Customer_038,Delhi,Corporate,Electronics,Mouse,5.0,860.34,0.159,UPI,Mobile App,4.0,4.0,No
+5171,2025-11-02,C059,Customer_059,Chennai,Small Business,Accessories,Power Bank,8.0,1873.28,0.118,UPI,Mobile App,7.0,,No
+5351,2025-11-03,C030,Customer_030,Mumbai,Consumer,Home,Table Fan,7.0,2265.73,0.06,Cash,Website,5.0,5.0,Yes
+5579,2025-11-04,C051,Customer_051,Chennai,Consumer,Electronics,Webcam,2.0,2040.43,0.036,Card,Website,1.0,2.0,No
+5436,2025-11-06,C056,Customer_056,Mumbai,Consumer,Office,Marker,5.0,58.64,0.042,UPI,Mobile App,7.0,4.0,No
+5276,2025-11-06,C053,Customer_053,Mumbai,Consumer,Accessories,USB Cable,7.0,452.83,0.233,UPI,Mobile App,5.0,3.0,No
+5454,2025-11-06,C078,Customer_078,Mumbai,Small Business,Electronics,Keyboard,7.0,1793.14,0.074,Card,Store,4.0,4.0,No
+5039,2025-11-07,C058,Customer_058,Delhi,Small Business,Accessories,Power Bank,7.0,1898.78,0.148,UPI,Store,4.0,5.0,No
+5452,2025-11-07,C084,Customer_084,Chennai,Consumer,Office,Marker,7.0,58.69,0.076,Cash,Website,5.0,5.0,No
+5114,2025-11-09,C118,Customer_118,Mumbai,Corporate,Electronics,Keyboard,8.0,1589.1,0.024,UPI,Website,8.0,5.0,No
+5499,2025-11-10,C043,Customer_043,Mumbai,Consumer,Home,Lamp,4.0,755.33,0.022,UPI,Mobile App,3.0,5.0,No
+5459,2025-11-10,C056,Customer_056,Mumbai,Consumer,Accessories,Laptop Stand,3.0,1450.48,0.104,Card,Mobile App,4.0,5.0,No
+5384,2025-11-11,C093,Customer_093,Delhi,Consumer,Office,Marker,1.0,61.47,0.077,UPI,Store,4.0,4.0,No
+5227,2025-11-11,C001,Customer_001,Mumbai,Corporate,Electronics,Mouse,8.0,960.97,0.08,Card,Website,5.0,4.0,No
+5576,2025-11-12,C120,Customer_120,Mumbai,Consumer,Electronics,Monitor,5.0,12973.46,0.114,Card,Website,,4.0,No
+5026,2025-11-12,C055,Customer_055,Mumbai,Consumer,Office,Notebook,2.0,115.23,0.06,UPI,Store,6.0,3.0,No
+5023,2025-11-12,C116,Customer_116,Hyderabad,Small Business,Accessories,Phone Case,8.0,551.82,0.0,Card,Website,5.0,4.0,No
+5590,2025-11-13,C002,Customer_002,Delhi,Corporate,Accessories,USB Cable,7.0,468.83,0.089,UPI,Mobile App,4.0,4.0,No
+5460,2025-11-13,C062,Customer_062,Delhi,Small Business,Electronics,Keyboard,6.0,1835.91,0.106,Cash,Mobile App,6.0,4.0,No
+5583,2025-11-13,C018,Customer_018,Chennai,Consumer,Accessories,Power Bank,2.0,1585.71,0.133,Card,Mobile App,4.0,4.0,No
+5240,2025-11-13,C072,Customer_072,Bengaluru,Consumer,Accessories,Power Bank,7.0,1796.4,0.176,UPI,Mobile App,7.0,4.0,No
+5280,2025-11-15,C088,Customer_088,Delhi,Corporate,Electronics,Mouse,7.0,797.77,0.156,Cash,Website,4.0,3.0,No
+5478,2025-11-16,C077,Customer_077,Bengaluru,Corporate,Accessories,Phone Case,4.0,612.06,0.08,UPI,Website,1.0,4.0,Yes
+5538,2025-11-16,C060,Customer_060,Chennai,Corporate,Home,Table Fan,4.0,2078.1,0.108,UPI,Mobile App,6.0,4.0,No
+5166,2025-11-19,C040,Customer_040,Mumbai,Corporate,Office,Stapler,7.0,195.26,0.086,Net Banking,Mobile App,6.0,4.0,No
+5359,2025-11-19,C002,Customer_002,Delhi,Corporate,Electronics,Monitor,8.0,12937.33,0.16,UPI,Website,4.0,5.0,No
+5548,2025-11-19,C034,Customer_034,Bengaluru,Corporate,Office,Stapler,8.0,185.32,0.024,Card,Website,6.0,4.0,No
+5594,2025-11-20,C064,Customer_064,Mumbai,Consumer,Office,Pen,7.0,25.67,0.005,Cash,Website,4.0,4.0,No
+5246,2025-11-21,C015,Customer_015,Delhi,Corporate,Home,Lamp,3.0,787.38,0.03,Card,Store,4.0,3.0,No
+5282,2025-11-21,C067,Customer_067,Delhi,Consumer,Office,Pen,7.0,27.36,0.109,UPI,Mobile App,7.0,5.0,Yes
+5150,2025-11-23,C044,Customer_044,Bengaluru,Consumer,Office,Pen,2.0,25.05,0.068,Card,Store,3.0,4.0,No
+5363,2025-11-24,C110,Customer_110,Hyderabad,Consumer,Electronics,Keyboard,8.0,1681.97,0.022,Card,Store,3.0,3.0,No
+5098,2025-11-24,C063,Customer_063,Delhi,Consumer,Office,Notebook,8.0,106.66,0.087,UPI,Website,3.0,4.0,No
+5229,2025-11-25,C058,Customer_058,Delhi,Small Business,Electronics,Mouse,5.0,835.61,0.007,UPI,Mobile App,7.0,4.0,No
+5109,2025-11-26,C101,Customer_101,Hyderabad,Consumer,Office,Stapler,2.0,159.25,0.105,UPI,Website,4.0,5.0,No
+5059,2025-11-26,C065,Customer_065,Mumbai,Corporate,Accessories,USB Cable,7.0,466.98,0.162,UPI,Store,5.0,4.0,No
+5248,2025-11-28,C011,Customer_011,Bengaluru,Consumer,Home,Table Fan,4.0,2149.88,0.075,Net Banking,Website,3.0,3.0,No
+5418,2025-11-28,C007,Customer_007,Mumbai,Consumer,Home,Lamp,6.0,874.96,0.057,Card,Website,3.0,4.0,No
+5215,2025-11-29,C011,Customer_011,Bengaluru,Consumer,Office,Marker,7.0,61.84,0.124,Cash,Mobile App,5.0,3.0,No
+5504,2025-11-30,C078,Customer_078,Mumbai,Small Business,Office,Stapler,8.0,174.17,0.047,Card,Mobile App,6.0,3.0,No
+5322,2025-11-30,C037,Customer_037,Chennai,Consumer,Office,Pen,8.0,25.87,0.107,Cash,Store,7.0,3.0,No
+5014,2025-11-30,C073,Customer_073,Hyderabad,Consumer,Accessories,Phone Case,5.0,579.09,0.151,Card,Website,2.0,5.0,No
+5450,2025-12-01,C070,Customer_070,Delhi,Consumer,Office,Marker,5.0,56.61,0.075,Net Banking,Website,3.0,3.0,No
+5522,2025-12-02,C089,Customer_089,Chennai,Consumer,Office,Marker,2.0,57.66,0.039,Card,Store,4.0,5.0,No
+5565,2025-12-02,C086,Customer_086,Chennai,Consumer,Electronics,Mouse,6.0,857.62,0.101,UPI,Website,2.0,5.0,No
+5081,2025-12-03,C065,Customer_065,Mumbai,Corporate,Office,Printer Paper,3.0,354.42,,UPI,Mobile App,3.0,3.0,No
+5321,2025-12-03,C002,Customer_002,Delhi,Corporate,Office,Stapler,6.0,172.87,0.02,Card,Mobile App,3.0,5.0,No
+5396,2025-12-04,C061,Customer_061,Mumbai,Small Business,Electronics,Mouse,5.0,907.12,0.093,Cash,Store,8.0,4.0,No
+5433,2025-12-06,C046,Customer_046,Mumbai,Consumer,Electronics,Headset,2.0,2341.04,0.019,UPI,Website,1.0,3.0,No
+5234,2025-12-06,C092,Customer_092,Mumbai,Corporate,Accessories,Power Bank,5.0,1614.33,0.095,Card,Mobile App,5.0,4.0,No
+5123,2025-12-06,C089,Customer_089,Chennai,Consumer,Electronics,Webcam,7.0,2460.88,0.077,Card,Website,4.0,3.0,No
+5007,2025-12-07,C041,Customer_041,Delhi,Consumer,Home,Table Fan,8.0,1893.05,0.0,UPI,Mobile App,6.0,4.0,No
+5073,2025-12-08,C100,Customer_100,Hyderabad,Consumer,Accessories,Phone Case,5.0,701.14,0.03,UPI,Website,2.0,5.0,No
+5062,2025-12-08,C007,Customer_007,Mumbai,Consumer,Office,Pen,5.0,23.45,0.2,Card,Website,7.0,3.0,No
+5559,2025-12-08,C053,Customer_053,Mumbai,Consumer,Accessories,USB Cable,6.0,418.07,0.122,Card,Website,4.0,5.0,No
+5292,2025-12-09,C119,Customer_119,Delhi,Consumer,Office,Stapler,1.0,171.29,0.1,UPI,Mobile App,3.0,4.0,No
+5472,2025-12-09,C037,Customer_037,Chennai,Consumer,Office,Notebook,1.0,114.68,0.064,UPI,Store,2.0,3.0,No
+5582,2025-12-11,C083,Customer_083,Mumbai,Consumer,Electronics,Headset,2.0,2127.86,0.021,Net Banking,Website,5.0,4.0,No
+5430,2025-12-11,C012,Customer_012,Hyderabad,Small Business,Electronics,Headset,6.0,2491.26,0.133,UPI,Website,8.0,3.0,No
+5038,2025-12-12,C008,Customer_008,Mumbai,Consumer,Office,Marker,6.0,58.14,0.072,Net Banking,Website,5.0,4.0,No
+5306,2025-12-13,C071,Customer_071,Chennai,Small Business,Accessories,Phone Case,4.0,615.62,0.047,Cash,Mobile App,9.0,3.0,No
+5561,2025-12-13,C085,Customer_085,Chennai,Consumer,Electronics,Mouse,3.0,913.32,0.169,UPI,Website,6.0,3.0,No
+5028,2025-12-13,C030,Customer_030,Mumbai,Consumer,Electronics,Monitor,7.0,13345.52,0.046,UPI,Website,4.0,4.0,No
+5156,2025-12-15,C083,Customer_083,Mumbai,Consumer,Office,Marker,8.0,58.92,0.0,UPI,Website,5.0,5.0,No
+5124,2025-12-17,C017,Customer_017,Delhi,Small Business,Electronics,Mouse,3.0,786.18,0.115,Card,Website,5.0,4.0,No
+5518,2025-12-17,C044,Customer_044,Bengaluru,Consumer,Electronics,Mouse,2.0,853.21,0.082,UPI,Mobile App,6.0,3.0,No
+5331,2025-12-17,C006,Customer_006,Hyderabad,Consumer,Office,Stapler,7.0,151.9,0.029,UPI,Store,3.0,5.0,No
+5503,2025-12-17,C066,Customer_066,Delhi,Corporate,Office,Printer Paper,8.0,332.92,0.142,Card,Website,6.0,4.0,No
+5334,2025-12-19,C035,Customer_035,Delhi,Consumer,Home,Desk,1.0,7549.46,,Cash,Website,5.0,4.0,No
+5403,2025-12-20,C054,Customer_054,Mumbai,Small Business,Electronics,Keyboard,5.0,1966.7,0.112,UPI,Mobile App,10.0,4.0,No
+5475,2025-12-22,C095,Customer_095,Bengaluru,Corporate,Home,Table Fan,3.0,2057.76,0.204,Card,Website,3.0,5.0,No
+5083,2025-12-22,C060,Customer_060,Chennai,Corporate,Accessories,Power Bank,3.0,1957.93,,Card,Store,1.0,3.0,No
+5546,2025-12-24,C007,Customer_007,Mumbai,Consumer,Office,Stapler,8.0,164.95,0.049,Net Banking,Store,8.0,4.0,No
+5319,2025-12-24,C038,Customer_038,Delhi,Corporate,Home,Table Fan,5.0,2221.03,0.137,Card,Website,6.0,4.0,No
+5390,2025-12-25,C005,Customer_005,Chennai,Consumer,Office,Stapler,4.0,178.97,0.074,UPI,Website,3.0,4.0,No
+5094,2025-12-25,C006,Customer_006,Hyderabad,Consumer,Home,Lamp,1.0,765.42,0.069,Card,Store,2.0,5.0,No
+5339,2025-12-26,C080,Customer_080,Mumbai,Consumer,Office,Printer Paper,3.0,365.47,0.12,UPI,Store,4.0,4.0,No
+5524,2025-12-26,C107,Customer_107,Delhi,Consumer,Office,Notebook,6.0,120.67,0.141,Net Banking,Website,3.0,4.0,No
+5481,2025-12-26,C019,Customer_019,Hyderabad,Corporate,Accessories,USB Cable,2.0,463.71,0.184,Card,Website,5.0,4.0,No
+5532,2025-12-27,C096,Customer_096,Mumbai,Corporate,Office,Pen,4.0,28.28,0.018,Card,Website,6.0,4.0,No
+5491,2025-12-27,C036,Customer_036,Chennai,Corporate,Office,Printer Paper,7.0,340.16,0.017,Card,Website,5.0,4.0,No
+5269,2025-12-28,C038,Customer_038,Delhi,Corporate,Home,Lamp,8.0,874.74,0.077,UPI,Mobile App,6.0,4.0,No
+5399,2025-12-29,C066,Customer_066,Delhi,Corporate,Accessories,Phone Case,1.0,628.25,0.091,Cash,Store,6.0,4.0,No
+5358,2025-12-29,C024,Customer_024,Hyderabad,Corporate,Electronics,Webcam,2.0,2554.97,,Card,Website,6.0,5.0,No
+5076,2025-12-30,C061,Customer_061,Mumbai,Small Business,Office,Pen,1.0,23.06,0.009,UPI,Mobile App,8.0,5.0,No
+5295,2025-12-30,C102,Customer_102,Mumbai,Consumer,Office,Printer Paper,8.0,361.45,0.118,Net Banking,Website,4.0,5.0,No
+5278,2025-12-30,C046,Customer_046,Mumbai,Consumer,Office,Stapler,4.0,165.52,0.017,Cash,Website,1.0,3.0,No
+5327,2025-12-31,C066,Customer_066,Delhi,Corporate,Accessories,Phone Case,8.0,597.49,0.098,UPI,Mobile App,3.0,4.0,Yes
+5242,2025-12-31,C112,Customer_112,Chennai,Consumer,Accessories,USB Cable,5.0,431.71,0.205,Card,Store,6.0,4.0,No
+5092,2025-01-19,C050,Customer_050,Chennai,Small Business,Accessories,Power Bank,3.0,1832.57,0.103,Card,Website,3.0,4.0,No

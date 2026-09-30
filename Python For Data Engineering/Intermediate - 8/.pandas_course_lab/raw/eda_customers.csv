@@ -1,0 +1,121 @@
+customer_id,customer,city,segment
+C001,Customer_001,Mumbai,Corporate
+C002,Customer_002,Delhi,Corporate
+C003,Customer_003,Hyderabad,Consumer
+C004,Customer_004,Mumbai,Consumer
+C005,Customer_005,Chennai,Consumer
+C006,Customer_006,Hyderabad,Consumer
+C007,Customer_007,Mumbai,Consumer
+C008,Customer_008,Mumbai,Consumer
+C009,Customer_009,Chennai,Consumer
+C010,Customer_010,Delhi,Corporate
+C011,Customer_011,Bengaluru,Consumer
+C012,Customer_012,Hyderabad,Small Business
+C013,Customer_013,Mumbai,Corporate
+C014,Customer_014,Hyderabad,Consumer
+C015,Customer_015,Delhi,Corporate
+C016,Customer_016,Chennai,Consumer
+C017,Customer_017,Delhi,Small Business
+C018,Customer_018,Chennai,Consumer
+C019,Customer_019,Hyderabad,Corporate
+C020,Customer_020,Mumbai,Consumer
+C021,Customer_021,Mumbai,Consumer
+C022,Customer_022,Bengaluru,Consumer
+C023,Customer_023,Hyderabad,Small Business
+C024,Customer_024,Hyderabad,Corporate
+C025,Customer_025,Mumbai,Consumer
+C026,Customer_026,Chennai,Consumer
+C027,Customer_027,Delhi,Consumer
+C028,Customer_028,Chennai,Consumer
+C029,Customer_029,Chennai,Consumer
+C030,Customer_030,Mumbai,Consumer
+C031,Customer_031,Mumbai,Small Business
+C032,Customer_032,Hyderabad,Small Business
+C033,Customer_033,Bengaluru,Consumer
+C034,Customer_034,Bengaluru,Corporate
+C035,Customer_035,Delhi,Consumer
+C036,Customer_036,Chennai,Corporate
+C037,Customer_037,Chennai,Consumer
+C038,Customer_038,Delhi,Corporate
+C039,Customer_039,Chennai,Corporate
+C040,Customer_040,Mumbai,Corporate
+C041,Customer_041,Delhi,Consumer
+C042,Customer_042,Hyderabad,Small Business
+C043,Customer_043,Mumbai,Consumer
+C044,Customer_044,Bengaluru,Consumer
+C045,Customer_045,Hyderabad,Corporate
+C046,Customer_046,Mumbai,Consumer
+C047,Customer_047,Bengaluru,Small Business
+C048,Customer_048,Bengaluru,Small Business
+C049,Customer_049,Mumbai,Consumer
+C050,Customer_050,Chennai,Small Business
+C051,Customer_051,Chennai,Consumer
+C052,Customer_052,Chennai,Consumer
+C053,Customer_053,Mumbai,Consumer
+C054,Customer_054,Mumbai,Small Business
+C055,Customer_055,Mumbai,Consumer
+C056,Customer_056,Mumbai,Consumer
+C057,Customer_057,Delhi,Consumer
+C058,Customer_058,Delhi,Small Business
+C059,Customer_059,Chennai,Small Business
+C060,Customer_060,Chennai,Corporate
+C061,Customer_061,Mumbai,Small Business
+C062,Customer_062,Delhi,Small Business
+C063,Customer_063,Delhi,Consumer
+C064,Customer_064,Mumbai,Consumer
+C065,Customer_065,Mumbai,Corporate
+C066,Customer_066,Delhi,Corporate
+C067,Customer_067,Delhi,Consumer
+C068,Customer_068,Bengaluru,Consumer
+C069,Customer_069,Chennai,Corporate
+C070,Customer_070,Delhi,Consumer
+C071,Customer_071,Chennai,Small Business
+C072,Customer_072,Bengaluru,Consumer
+C073,Customer_073,Hyderabad,Consumer
+C074,Customer_074,Bengaluru,Small Business
+C075,Customer_075,Chennai,Consumer
+C076,Customer_076,Bengaluru,Consumer
+C077,Customer_077,Bengaluru,Corporate
+C078,Customer_078,Mumbai,Small Business
+C079,Customer_079,Delhi,Consumer
+C080,Customer_080,Mumbai,Consumer
+C081,Customer_081,Mumbai,Corporate
+C082,Customer_082,Bengaluru,Small Business
+C083,Customer_083,Mumbai,Consumer
+C084,Customer_084,Chennai,Consumer
+C085,Customer_085,Chennai,Consumer
+C086,Customer_086,Chennai,Consumer
+C087,Customer_087,Mumbai,Consumer
+C088,Customer_088,Delhi,Corporate
+C089,Customer_089,Chennai,Consumer
+C090,Customer_090,Delhi,Consumer
+C091,Customer_091,Chennai,Corporate
+C092,Customer_092,Mumbai,Corporate
+C093,Customer_093,Delhi,Consumer
+C094,Customer_094,Bengaluru,Small Business
+C095,Customer_095,Bengaluru,Corporate
+C096,Customer_096,Mumbai,Corporate
+C097,Customer_097,Bengaluru,Consumer
+C098,Customer_098,Chennai,Consumer
+C099,Customer_099,Chennai,Small Business
+C100,Customer_100,Hyderabad,Consumer
+C101,Customer_101,Hyderabad,Consumer
+C102,Customer_102,Mumbai,Consumer
+C103,Customer_103,Bengaluru,Corporate
+C104,Customer_104,Hyderabad,Small Business
+C105,Customer_105,Mumbai,Consumer
+C106,Customer_106,Mumbai,Small Business
+C107,Customer_107,Delhi,Consumer
+C108,Customer_108,Bengaluru,Corporate
+C109,Customer_109,Chennai,Corporate
+C110,Customer_110,Hyderabad,Consumer
+C111,Customer_111,Delhi,Consumer
+C112,Customer_112,Chennai,Consumer
+C113,Customer_113,Bengaluru,Small Business
+C114,Customer_114,Delhi,Corporate
+C115,Customer_115,Chennai,Small Business
+C116,Customer_116,Hyderabad,Small Business
+C117,Customer_117,Mumbai,Consumer
+C118,Customer_118,Mumbai,Corporate
+C119,Customer_119,Delhi,Consumer
+C120,Customer_120,Mumbai,Consumer
